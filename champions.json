@@ -35,6 +35,13 @@
             "maxTier": "6",
             "Klasse": "Kosmos"
         },
+         {
+            "ID": "209",
+            "Name": "America Chavez",
+            "Image": "AmericaChavez,
+            "maxTier": "6",
+            "Klasse": "Mystisch"
+        },
         {
             "ID": "85",
             "Name": "Angela",
@@ -529,6 +536,13 @@
             "ID": "95",
             "Name": "Hela",
             "Image": "Hela",
+            "maxTier": "6",
+            "Klasse": "Kosmos"
+        },
+         {
+            "ID": "208",
+            "Name": "Herkules",
+            "Image": "Herkules",
             "maxTier": "6",
             "Klasse": "Kosmos"
         },
