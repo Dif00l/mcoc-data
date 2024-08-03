@@ -244,8 +244,20 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Captain Britain","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Captain Marvel","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Captain Britain",
+        "Klasse":"Kosmos",
+        "Image":"228",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Captain Marvel",
+        "Klasse":"Kosmos",
+        "Image":"",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Captain Marvel (Klassisch)","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Carnage","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Cassie Lang","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
@@ -492,7 +504,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"M.O.D.O.K.","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"M.O.D.O.K.",
+        "Klasse":"Forschung",
+        "Image":"061",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Maestro","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {
         "Name":"Magik",
@@ -593,12 +611,12 @@
         "Skills":[]
     }, 
     {"Name":"Punisher 2099","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Quake","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {"Name":"Quake","Klasse":"Forschung","Image":"062","Tags":[],"Skills":[]}, 
     {"Name":"Quicksilver","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Red Goblin","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Red Guardian","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Red Skull","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Rhino","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {"Name":"Rhino","Klasse":"Forschung","Image":"63","Tags":[],"Skills":[]}, 
     {"Name":"Rintrah","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Rocket Racoon","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {
@@ -610,7 +628,7 @@
     }, 
     {"Name":"Ronan","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Ronin","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Roter Hulk","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {"Name":"Roter Hulk","Klasse":"Forschung","Image":"064","Tags":[],"Skills":[]}, 
     {
         "Name":"Sabretooth",
         "Klasse":"Mutant",
@@ -625,7 +643,7 @@
     {"Name":"Scarlet Witch (Klassisch)","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Schwarze Katze","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Sentinel","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Sentry","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {"Name":"Sentry","Klasse":"Forschung","Image":"065","Tags":[],"Skills":[]}, 
     {"Name":"Serpent","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Sersi","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Shang-Chi","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
@@ -638,10 +656,10 @@
     {"Name":"Silver Surfer","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Skorpion","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Sorcerer Supreme","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Spider-Gwen","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {"Name":"Spider-Gwen","Klasse":"Forschung","Image":"066","Tags":[],"Skills":[]}, 
     {"Name":"Spider-Ham","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Spider-Man (Klassisch)","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Spider-Man (Miles Morales)","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {"Name":"Spider-Man (Klassisch)","Klasse":"Forschung","Image":"067","Tags":[],"Skills":[]}, 
+    {"Name":"Spider-Man (Miles Morales)","Klasse":"Forschung","Image":"068","Tags":[],"Skills":[]}, 
     {
         "Name":"Spider-Man (Stark Aufger\u00FCstet)",
         "Klasse":"Technologie",
@@ -710,11 +728,11 @@
     }, 
     {"Name":"Vision (Todlos)","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Viv Vision","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Void","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {"Name":"Void","Klasse":"Forschung","Image":"069","Tags":[],"Skills":[]}, 
     {"Name":"Vox","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"War Machine","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Warlock","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Wasp","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {"Name":"Wasp","Klasse":"Forschung","Image":"070","Tags":[],"Skills":[]}, 
     {"Name":"Werwolf bei Nacht","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"White Tiger","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Wiccan","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
