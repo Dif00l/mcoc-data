@@ -328,8 +328,20 @@
     {"Name":"Die Unsichtbare","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Doktor Doom","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Doktor Octopus","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Doktor Strange","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Doktor Voodoo","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Doktor Strange",
+        "Klasse":"Mystisch",
+        "Image":"071",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Doktor Voodoo",
+        "Klasse":"Mystisch",
+        "Image":"072",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Domino",
         "Klasse":"Mutant",
@@ -337,7 +349,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Dormammu","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Dormammu",
+        "Klasse":"Mystisch",
+        "Image":"073",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Dragon Man","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Drax","Klasse":"Kosmos","Image":"005","Tags":[],"Skills":[]}, 
     {"Name":"Dust","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
@@ -382,14 +400,26 @@
     }, 
     {"Name":"Gamora","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Ghost","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Ghost Rider","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Ghost Rider",
+        "Klasse":"Mystisch",
+        "Image":"074",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Gladiator","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Goldpool","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Gorr","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Green Goblin","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Groot","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Guardian","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Guillotine","Klasse":"Mystisch","Image":"007","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Guillotine",
+        "Klasse":"Mystisch",
+        "Image":"007",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Guillotine (Deathless)","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Guillotine 2099","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {
