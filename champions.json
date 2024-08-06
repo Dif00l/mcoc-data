@@ -468,7 +468,13 @@
         "Skills":[]
     }, 
     {"Name":"Ikaris","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Iron Fist","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Iron Fist",
+        "Klasse":"Mystisch",
+        "Image":"075",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Iron Fist (Immortal)","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Iron Man","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Iron Man (Infamous)","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
@@ -485,7 +491,13 @@
         "Skills":[]
     }, 
     {"Name":"Jubilee","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Juggernaut","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Juggernaut",
+        "Klasse":"Mystisch",
+        "Image":"076",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Kang","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {
         "Name":"Karnak",
