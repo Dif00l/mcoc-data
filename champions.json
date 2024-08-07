@@ -401,14 +401,38 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Der Geier","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Der Geier",
+        "Klasse":"Technologie",
+        "Image":"114",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Der Leader","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Der Maulwurf","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Diablo","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Die Menschliche Fackel","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Diablo",
+        "Klasse":"Mystisch",
+        "Image":"112",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Die Menschliche Fackel",
+        "Klasse":"Forschung",
+        "Image":"110",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Die Unsichtbare","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Doktor Doom","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Doktor Octopus","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Doktor Octopus",
+        "Klasse":"Technologie",
+        "Image":"115",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Doktor Strange",
         "Klasse":"Mystisch",
@@ -486,7 +510,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Ghost","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Ghost",
+        "Klasse":"Technologie",
+        "Image":"116",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Ghost Rider",
         "Klasse":"Mystisch",
@@ -546,7 +576,13 @@
     }, 
     {"Name":"Herkules","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Hit-Monkey","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Howard die Ente","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Howard die Ente",
+        "Klasse":"Technologie",
+        "Image":"117",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Hulk",
         "Klasse":"Forschung",
@@ -562,7 +598,13 @@
         "Skills":[]
     }, 
     {"Name":"Hulk (Unsterblich)","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Hulkbuster","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Hulkbuster",
+        "Klasse":"Technologie",
+        "Image":"118",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Hulkling","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {
         "Name":"Hyperion",
@@ -587,10 +629,28 @@
         "Skills":[]
     }, 
     {"Name":"Iron Fist (Immortal)","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Iron Man","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Iron Man",
+        "Klasse":"Technologie",
+        "Image":"119",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Iron Man (Infamous)","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Iron Man (Infinity War)","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Iron Patriot","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Iron Man (Infinity War)",
+        "Klasse":"Technologie",
+        "Image":"120",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Iron Patriot",
+        "Klasse":"Technologie",
+        "Image":"121",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Ironheart","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Jabari Panther","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Jessica Jones","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
@@ -759,8 +819,20 @@
     }, 
     {"Name":"Mysterio","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Namor","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Nebula","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Nick Fury","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Nebula",
+        "Klasse":"Technologie",
+        "Image":"122",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Nick Fury",
+        "Klasse":"Talent",
+        "Image":"111",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Night Thrasher","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
     {
         "Name":"Nightcrawler",
@@ -784,12 +856,24 @@
     {"Name":"Onslaught","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Patriot","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Peni Parker","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Phoenix","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Phoenix",
+        "Klasse":"Kosmos",
+        "Image":"101",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Photon","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Platinpool","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Professor X","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Prowler","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Proxima Midnight","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Proxima Midnight",
+        "Klasse":"Kosmos",
+        "Image":"102",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Psycho-Man","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {
         "Name":"Psylocke",
@@ -827,7 +911,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Ronan","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Ronan",
+        "Klasse":"Kosmos",
+        "Image":"103",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Ronin","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Roter Hulk","Klasse":"Forschung","Image":"064","Tags":[],"Skills":[]}, 
     {
@@ -875,7 +965,13 @@
         "Skills":[]
     }, 
     {"Name":"Spider-Man (Supreme)","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Spider-Man (Symbiont)","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Spider-Man (Symbiont)",
+        "Klasse":"Kosmos",
+        "Image":"104",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Spider-Man (Tarnanzug)","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Spider-Man 2099","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Spider-Punk","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
@@ -892,7 +988,13 @@
     {"Name":"Storm (Pyramid X)","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Stryfe","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Sunspot","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Superior Iron Man","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Superior Iron Man",
+        "Klasse":"Kosmos",
+        "Image":"105",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Super-Skrull","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {
         "Name":"Symbiont Supreme",
@@ -917,7 +1019,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Thor","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Thor",
+        "Klasse":"Kosmos",
+        "Image":"106",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Thor (Jane Foster)",
         "Klasse":"Mystisch",
@@ -945,9 +1053,21 @@
         "Skills":[]
     }, 
     {"Name":"Valkyrie","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Venom","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Venom",
+        "Klasse":"Kosmos",
+        "Image":"107",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Venom die Ente","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Venompool","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Venompool",
+        "Klasse":"Kosmos",
+        "Image":"108",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Vision","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Vision (Aarkus)","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {
