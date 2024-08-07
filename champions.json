@@ -704,7 +704,13 @@
     {"Name":"Red Goblin","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Red Guardian","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Red Skull","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Rhino","Klasse":"Forschung","Image":"63","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Rhino",
+        "Klasse":"Forschung",
+        "Image":"063",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Rintrah","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Rocket Racoon","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {
