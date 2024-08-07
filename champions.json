@@ -265,19 +265,53 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Carnage","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Cassie Lang","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Champion des Universums","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {
-        "Name":"Chee`ilth",
-        "Klasse":"Talent",
-        "Image":"",
+        "Name":"Carnage",
+        "Klasse":"Kosmos",
+        "Image":"089",
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Civil Warrior","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Colossus","Klasse":"Mutant","Image":"004","Tags":[],"Skills":[]}, 
-    {"Name":"Corvus Glaive","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Cassie Lang",
+        "Klasse":"Technologie",
+        "Image":"266",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Champion des Universums",
+        "Klasse":"Kosmos",
+        "Image":"090",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Chee`ilth",
+        "Klasse":"Talent",
+        "Image":"287",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Civil Warrior",
+        "Klasse":"Technologie",
+        "Image":"113",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Colossus",
+        "Klasse":"Mutant",
+        "Image":"004",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Corvus Glaive",
+        "Klasse":"Kosmos",
+        "Image":"091",
+        "Tags":[],"Skills":[]}, 
     {
         "Name":"Crossbones",
         "Klasse":"Talent",
@@ -285,7 +319,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Cull Obisidian","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Cull Obisidian",
+        "Klasse":"Kosmos",
+        "Image":"141",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Cyclops (Blaues Team)",
         "Klasse":"Mutant",
