@@ -233,7 +233,7 @@
     {
         "Name":"Captain America (Sam Wilson)",
         "Klasse":"Technologie",
-        "Image":"",
+        "Image":"224",
         "Tags":[],
         "Skills":[]
     }, 
@@ -258,7 +258,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Captain Marvel (Klassisch)","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Captain Marvel (Klassisch)",
+        "Klasse":"Kosmos",
+        "Image":"",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Carnage","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Cassie Lang","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Champion des Universums","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
