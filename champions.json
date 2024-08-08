@@ -139,6 +139,13 @@
         "Tags":[],
         "Skills":[]
     }, 
+      {
+        "Name":"Beta Ray Bill",
+        "Klasse":"Kosmos",  
+        "Image":"000",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Bishop",
         "Klasse":"Mutant",
@@ -546,6 +553,13 @@
         "Name":"Emma Frost",
         "Klasse":"Mutant",
         "Image":"038",
+        "Tags":[],
+        "Skills":[]
+    }, 
+      {
+        "Name":"Enchantress",
+        "Klasse":"Mystisch",  
+        "Image":"000",
         "Tags":[],
         "Skills":[]
     }, 
@@ -1765,7 +1779,7 @@
     {
         "Name":"Ultron"
         ,"Klasse":"Technologie",
-        "Image":"128",
+        "Image":"129",
         "Tags":[],
         "Skills":[]
     }, 
