@@ -552,7 +552,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Havok","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Havok",
+        "Klasse":"Mutant",
+        "Image":"125",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Hawkeye",
         "Klasse":"Talent",
@@ -777,7 +783,13 @@
     {"Name":"Mephisto","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Mister Fantastic","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Mister Negative","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Mister Sinister","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Mister Sinister",
+        "Klasse":"Mutant",
+        "Image":"126",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Misty Knight","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Mojo","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {
@@ -833,7 +845,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Night Thrasher","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Night Thrasher",
+        "Klasse":"Talent",
+        "Image":"127",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Nightcrawler",
         "Klasse":"Mutant",
@@ -889,12 +907,30 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Punisher 2099","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Quake","Klasse":"Forschung","Image":"062","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Punisher 2099",
+        "Klasse":"Technologie",
+        "Image":"123",
+        "Tags":[],
+        "Skills":[]
+    }, 
+    {
+        "Name":"Quake",
+        "Klasse":"Forschung",
+        "Image":"062",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Quicksilver","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Red Goblin","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Red Guardian","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Red Skull","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Red Skull",
+        "Klasse":"Technologie",
+        "Image":"133",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Rhino",
         "Klasse":"Forschung",
@@ -903,7 +939,13 @@
         "Skills":[]
     }, 
     {"Name":"Rintrah","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Rocket Racoon","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Rocket Racoon",
+        "Klasse":"Technologie",
+        "Image":"124",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Rogue",
         "Klasse":"Mutant",
@@ -939,7 +981,13 @@
         "Skills":[]
     }, 
     {"Name":"Schwarze Katze","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Sentinel","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Sentinel",
+        "Klasse":"Technologie",
+        "Image":"134",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Sentry","Klasse":"Forschung","Image":"065","Tags":[],"Skills":[]}, 
     {"Name":"Serpent","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Sersi","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
@@ -977,7 +1025,13 @@
     {"Name":"Spider-Punk","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Spot","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Squirrel Girl","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Star-Lord","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Star-Lord",
+        "Klasse":"Technologie",
+        "Image":"135",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Storm",
         "Klasse":"Mutant",
@@ -1043,7 +1097,13 @@
     {"Name":"Tigra","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Titania","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Toad","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Ultron","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Ultron"
+        ,"Klasse":"Technologie",
+        "Image":"128",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Ultron (Klassisch)","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {
         "Name":"Unaufhaltsamer Colossus",
@@ -1068,7 +1128,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Vision","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Vision",
+        "Klasse":"Technologie",
+        "Image":"136",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Vision (Aarkus)","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {
         "Name":"Vision (Age of Ultron)",
@@ -1081,7 +1147,13 @@
     {"Name":"Viv Vision","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Void","Klasse":"Forschung","Image":"069","Tags":[],"Skills":[]}, 
     {"Name":"Vox","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"War Machine","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"War Machine",
+        "Klasse":"Technologie",
+        "Image":"137",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Warlock","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Wasp","Klasse":"Forschung","Image":"070","Tags":[],"Skills":[]}, 
     {"Name":"Werwolf bei Nacht","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
@@ -1107,5 +1179,11 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Yondu","Klasse":"Technologie","Image":"","Tags":[]}
+    {
+        "Name":"Yondu",
+        "Klasse":"Technologie",
+        "Image":"138",
+        "Tags":[],
+        "Skills":[]
+    }
 ]
