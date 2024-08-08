@@ -1140,8 +1140,8 @@
         "Name":"Peni Parker",
         "Klasse":"Technologie",
         "Image":"208",
-        "Tags":[],"
-        Skills":[]
+        "Tags":[],
+        "Skills":[]
     }, 
     {
         "Name":"Phoenix",
