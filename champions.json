@@ -464,7 +464,13 @@
     {"Name":"Dragon Man","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Drax","Klasse":"Kosmos","Image":"005","Tags":[],"Skills":[]}, 
     {"Name":"Dust","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Ebony Maw","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Ebony Maw",
+        "Klasse":"Mystisch",
+        "Image":"143",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Electro",
         "Klasse":"Forschung",
@@ -525,9 +531,21 @@
         "Skills":[]
     }, 
     {"Name":"Gladiator","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Goldpool","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Goldpool",
+        "Klasse":"Mutant",
+        "Image":"144",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Gorr","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Green Goblin","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Green Goblin",
+        "Klasse":"Technologie",
+        "Image":"145",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Groot",
         "Klasse":"Kosmos",
@@ -675,7 +693,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Kang","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Kang",
+        "Klasse":"Technologie",
+        "Image":"146",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Karnak",
         "Klasse":"Talent",
@@ -780,7 +804,13 @@
         "Skills":[]
     },    
     {"Name":"Megasonic Teenage Warhead","Klasse":"Mutant","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Mephisto","Klasse":"Mystisch","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Mephisto",
+        "Klasse":"Mystisch",
+        "Image":"147",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Mister Fantastic","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Mister Negative","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
     {
@@ -960,7 +990,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Ronin","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Ronin",
+        "Klasse":"Talent",
+        "Image":"148",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Roter Hulk","Klasse":"Forschung","Image":"064","Tags":[],"Skills":[]}, 
     {
         "Name":"Sabretooth",
@@ -992,7 +1028,13 @@
     {"Name":"Serpent","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Sersi","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Shang-Chi","Klasse":"Talent","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"She-Hulk","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"She-Hulk",
+        "Klasse":"Forschung",
+        "Image":"139",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {"Name":"Shocker","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Shuri","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
     {"Name":"Silk","Klasse":"Forschung","Image":"","Tags":[],"Skills":[]}, 
@@ -1065,7 +1107,13 @@
         "Skills":[]
     }, 
     {"Name":"Terrax","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
-    {"Name":"Thanos","Klasse":"Kosmos","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Thanos",
+        "Klasse":"Kosmos",
+        "Image":"149",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"The Hood",
         "Klasse":"Mystisch",
@@ -1120,7 +1168,13 @@
         "Tags":[],
         "Skills":[]
     }, 
-    {"Name":"Venom die Ente","Klasse":"Technologie","Image":"","Tags":[],"Skills":[]}, 
+    {
+        "Name":"Venom die Ente",
+        "Klasse":"Technologie",
+        "Image":"150",
+        "Tags":[],
+        "Skills":[]
+    }, 
     {
         "Name":"Venompool",
         "Klasse":"Kosmos",
