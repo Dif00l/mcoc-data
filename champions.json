@@ -18,7 +18,9 @@
 			"Wutausbruch",
 			"Immum gegen Vergiftung"
 		],
-		"Immunities": []
+		"Immunities": [
+				"Gift"
+		]
 	},
 	{
 		"Name": "Abomination (Unsterblich)",
