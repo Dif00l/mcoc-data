@@ -4,308 +4,352 @@
         "Klasse":"Forschung",
         "Image":"051",
         "Tags":["#Defensiv:Panzer","#Schurke","#Gamma","#Gr\u00F6ße XL","#Chronos Corps","#Blitzschläge","#AW:Trotz","#2014"],
-        "Skills":["Vergiftung","Wutausbruch","Immum gegen Vergiftung"]
+        "Skills":["Vergiftung","Wutausbruch","Immum gegen Vergiftung"],
+        "Immunities":[]
     },
     {
         "Name":"Abomination (Unsterblich)",
         "Klasse":"Forschung",        
         "Image":"196",
         "Tags":["#Offensiv:Schaden über einen gewissen Zeitraum","#Defensiv:Panzer","#Schurke","#Gamma","#Gr\u00F6ße:XL","AW:Trotz","#Carinas Herausforderer","#RAIDS:Avantgarde","#2020"],
-        "Skills":["Säureverbrennung","Erschöpfung","Versteinern","Vergiftung"]
+        "Skills":["Säureverbrennung","Erschöpfung","Versteinern","Vergiftung"],
+        "Immunities":[]
     },
     {
         "Name":"Absorbing Man",
         "Klasse":"Mystisch",  
         "Image":"254",
         "Tags":["#Defensiv:Panzer","#Offensiv:Schub","#Schurke","#Gamma","#Gr\u00F6ße:L","#S\u00F6ldner","#EQ:Romantik","#Culs W\u00FCrdigkeit","#RAIDS:Avantgarde","#2023"],
-        "Skills":["Reduzierung der Buff-Dauer","Verwundbarkeit","Schwarze Uru-Form","Magna-Form"]
+        "Skills":["Reduzierung der Buff-Dauer","Verwundbarkeit","Schwarze Uru-Form","Magna-Form"],
+        "Immunities":[]
     },
     {
         "Name":"Adam Warlock",
         "Klasse":"Kosmos",  
         "Image":"271",
         "Tags":["#Offensiv:grober Schaden","#Defensiv:Nutzen","#Held","#Fliegend","#Ansteigende Kraft","#Größe:M","#Magischer Dieb","#Klarheit","#2023","#Saga-Angreifer"],
-        "Skills":["Unabwehrbar","Totalschaden","Präzision","Wutausbruch"]
+        "Skills":["Unabwehrbar","Totalschaden","Präzision","Wutausbruch"],
+        "Immunities":[]
     },
     {
         "Name":"Aegon",
         "Klasse":"Talent",
         "Image":"130",
         "Tags":["#Offensiv: grober Schaden","#Held","#Größe: M","#Klarheit","#RAIDS:Angriff","#2018","#Saga-Angreifer"],
-        "Skills":["Beharrlichkeit","Combo-Schild","Wutausbruch","Blutrausch"]
+        "Skills":["Beharrlichkeit","Combo-Schild","Wutausbruch","Blutrausch"],
+        "Immunities":[]
     },
     {
         "Name":"Agent Venom",
         "Klasse":"Talent",  
         "Image":"014",
         "Tags":["#Offensiv:Schaden über gewissen Zeitraum","#Held","#Größe:M","#EQ:Romantik","#Guardian of the Galaxy","#Blitzschläge","#Symbiont","#AW:Trotz","#Magischer Dieb","#2018"],
-        "Skills":["Beharrlichkeit","Symbiontenschlau","Blutrausch","Einäschern"]
+        "Skills":["Beharrlichkeit","Symbiontenschlau","Blutrausch","Einäschern"],
+        "Immunities":[]
     }, 
     {
         "Name":"Air-Walker",
         "Klasse":"Kosmos",  
         "Image":"186",
         "Tags":["#Kontrolle:Konter","#Schurke","#Fliegend","#Größe:L","#Metall","#2020"],
-        "Skills":["Kosmische Kräfte","Der Dunkle Strom","Rüstungsbruch","Die Kraft des Galactus"]
+        "Skills":["Kosmische Kräfte","Der Dunkle Strom","Rüstungsbruch","Die Kraft des Galactus"],
+        "Immunities":[]
     }, 
     {
         "Name":"America Chavez",
         "Klasse":"Mystisch",  
         "Image":"223",
         "Tags":["#Offensiv:Schub","#Held","#Größe:M","#Dimensionswesen","#Blitzschläge","#Young Avengers","#AW:Plattmachen","#2021"],
-        "Skills":["Utopische Parallele","Dunkle Dimension","Negativzone","Dimensionsenergieinfusion"]
+        "Skills":["Utopische Parallele","Dunkle Dimension","Negativzone","Dimensionsenergieinfusion"],
+        "Immunities":[]
     }, 
     {
         "Name":"Angela",
         "Klasse":"Kosmos",  
         "Image":"085",
         "Tags":["#Offensiv: grober Schaden","#Held","#Metall","#Grö0e:S","#Gott","#EQ:Romantik","#AW:Verfall","#Klarheit","#RAIDS:Taktiker","#2017","#Saga-Angreifer"],
-        "Skills":["Präzision","Rüstungsbruch","Wutausbruch","Rüstung"]
+        "Skills":["Präzision","Rüstungsbruch","Wutausbruch","Rüstung"],
+        "Immunities":[]
     }, 
     {
         "Name":"Annihilus",
         "Klasse":"Kosmos",  
         "Image":"140",
         "Tags":["#Offensiv:Schub","#Schurke","#Größe:M","#Metall","#2019"],
-        "Skills":["Kosmischer Steuerstab","Rüstungsbruch","Abwürgen","Unaufhaltsam"]
+        "Skills":["Kosmischer Steuerstab","Rüstungsbruch","Abwürgen","Unaufhaltsam"],
+        "Immunities":[]
     }, 
     {
         "Name":"Anti-Venom",
         "Klasse":"Forschung",  
         "Image":"212",
         "Tags":["#Offensiv: grober Schaden","#Größe:L","#Symbiont","#AW:Verfall","#2021"],
-        "Skills":["Schreckgespenst","Desorientierung","Abbremsen","Wutausbruch"]
+        "Skills":["Schreckgespenst","Desorientierung","Abbremsen","Wutausbruch"],
+        "Immunities":[]
     }, 
     {
         "Name":"Ant-Man",
         "Klasse":"Forschung",  
         "Image":"052",
         "Tags":["#Defensiv:Panzer","#Held","#Metall","#Größe:M","#Avengers","#AW:Verfall","#2015"],
-        "Skills":["Powerstich","Ermüdung","Vergiftung","Versteinern"]
+        "Skills":["Powerstich","Ermüdung","Vergiftung","Versteinern"],
+        "Immunities":[]
     }, 
     {
         "Name":"Ant-Man (Zukunft)",
         "Klasse":"Technologie",  
         "Image":"265",
         "Tags":["#Defensiv:Panzer","#Kontrolle:Verweigerung","#Held","#Metall","#Größe:M","#Dimensionswesen","#AW:Rüstungsentkräftung","#Haus der Spiegel","#RAIDS:Avantgarde","#2023","#Saga-Verteidiger"],
-        "Skills":["Abprallen","Kraftexplosion","Zerfall","Rüstung"]
+        "Skills":["Abprallen","Kraftexplosion","Zerfall","Rüstung"],
+        "Immunities":[]
     }, 
     {
         "Name":"Apocalypse",
         "Klasse":"Mutant",  
         "Image":"193",
         "Tags":["#Offensiv: Schaden über gewissen Zeitraum","#Defensiv:Panzer","#Metall","#Schurke","#Größe:XL","#2020"],
-        "Skills":["Blutrausch","Erschöpfung","Vergiftung","Gehirnerschütterung"]
+        "Skills":["Blutrausch","Erschöpfung","Vergiftung","Gehirnerschütterung"],
+        "Immunities":[]
     }, 
     {
         "Name":"Arcade",
         "Klasse":"Technologie",  
         "Image":"290",
         "Tags":["#Offensiv:Schaden über einen gewissen Zeitraum","#Defensiv:Schutz","Größe:M","#Schurke","#Haus der Spiegel","#2024","#Saga-Verteidiger"],
-        "Skills":["Arcade Token","Automatische Abwehr","Schock","Giftige Wolke","Sprengfalle","Einäschern","Blutrausch"]
+        "Skills":["Arcade Token","Automatische Abwehr","Schock","Giftige Wolke","Sprengfalle","Einäschern","Blutrausch"],
+        "Immunities":[]
     }, 
     {
         "Name":"Archangel",
         "Klasse":"Mutant",  
         "Image":"032",
         "Tags":["#Offensiv:Schaden über gewissen Zeitraum","#Held","#Metall","#Größe:M","#EQ:Romantik","#X-Men","#X-Force","#2017"],
-        "Skills":["Neurotoxin","Blutrausch","Vergiftung","Lähmung"]
+        "Skills":["Neurotoxin","Blutrausch","Vergiftung","Lähmung"],
+        "Immunities":[]
     }, 
     {
         "Name":"Attuma",
         "Klasse":"Talent",  
         "Image":"246",
         "Tags":["#Offensiv:grober Schaden","#Schurke","#Größe:L","#Culs Würdigkeit","#Klarheit","#2022","#Saga-Angreifer"],
-        "Skills":["Umkehrung der Genauigkeiten der Fähigkeiten","Dornen","Säuberung","Echte Genauigkeit"]
+        "Skills":["Umkehrung der Genauigkeiten der Fähigkeiten","Dornen","Säuberung","Echte Genauigkeit"],
+        "Immunities":[]
     }, 
     {
         "Name":"Auserw\u00E4hlter Symbioid",
         "Klasse":"Spezial",  
         "Image":"000",
         "Tags":["#Defensiv:Nutzen","#Größe:L","#Symbiont"],
-        "Skills":["Blutrausch","Erschöpfung","Rüstungsbruch"]
+        "Skills":["Blutrausch","Erschöpfung","Rüstungsbruch"],
+        "Immunities":[]
     }, 
     {
         "Name":"Baron Zemo",
         "Klasse":"Talent",  
         "Image":"253",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Beast",
         "Klasse":"Mutant",  
         "Image":"001",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
       {
         "Name":"Beta Ray Bill",
         "Klasse":"Kosmos",  
         "Image":"000",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Bishop",
         "Klasse":"Mutant",
         "Image":"002",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Black Bolt",
         "Klasse":"Kosmos", 
         "Image":"086",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Black Cat",
         "Klasse":"Talent", 
         "Image":"230",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Black Panther",
         "Klasse":"Talent",
         "Image":"013",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Black Panther (Civil War)",
         "Klasse":"Talent",
         "Image":"012",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Black Widow",
         "Klasse":"Talent",
         "Image":"015",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Black Widow (Claire Voyant)",
         "Klasse":"Mystisch",
         "Image":"159",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Black Widow (Deadly Origin)",
         "Klasse":"Talent",
         "Image":"180",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Blade",
         "Klasse":"Talent",
         "Image":"003",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Bullseye",
         "Klasse":"Talent",
         "Image":"291",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Cable",
         "Klasse":"Mutant",
         "Image":"033",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Captain America",
         "Klasse":"Forschung",
         "Image":"053",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Captain America (Infinity War)",
         "Klasse":"Forschung",
         "Image":"054",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Captain America (Sam Wilson)",
         "Klasse":"Technologie",
         "Image":"224",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Captain America (WWII)",
         "Klasse":"Forschung",
         "Image":"055",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Captain Britain",
         "Klasse":"Kosmos",
         "Image":"228",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Captain Marvel",
         "Klasse":"Kosmos",
         "Image":"087",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Captain Marvel (Klassisch)",
         "Klasse":"Kosmos",
         "Image":"088",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Carnage",
         "Klasse":"Kosmos",
         "Image":"089",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Cassie Lang",
         "Klasse":"Technologie",
         "Image":"266",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Champion des Universums",
         "Klasse":"Kosmos",
         "Image":"090",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Chee`ilth",
         "Klasse":"Talent",
         "Image":"287",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Civil Warrior",
         "Klasse":"Technologie",
         "Image":"113",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Colossus",
@@ -319,292 +363,337 @@
         "Name":"Corvus Glaive",
         "Klasse":"Kosmos",
         "Image":"091",
-        "Tags":[],"Skills":[]}, 
+        "Tags":[],
+        "Skills":[],
+        "Immunities":[]
+    }, 
     {
         "Name":"Crossbones",
         "Klasse":"Talent",
         "Image":"016",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Cull Obisidian",
         "Klasse":"Kosmos",
         "Image":"141",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Cyclops (Blaues Team)",
         "Klasse":"Mutant",
         "Image":"034",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Cyclops (New Xacier School)",
         "Klasse":"Mutant",
         "Image":"035",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
       {
         "Name":"Dani Morningstar",
         "Klasse":"Mutant",
         "Image":"280",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Daredevil (Hells Kitchen)",
         "Klasse":"Talent",
         "Image":"017",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Daredevil (Klassisch)",
         "Klasse":"Talent",
         "Image":"018",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Darkhawk",
         "Klasse":"Technologie",
         "Image":"142",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Das Ding",
         "Klasse":"Forschung",
         "Image":"109",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Deadpool",
         "Klasse":"Mutant",
         "Image":"131",
         "Tags":[],
-        "Skills":[]}, 
+        "Skills":[],
+        "Immunities":[]
+    }, 
     {
         "Name":"Deadpool (X-Force)",
         "Klasse":"Mutant",
         "Image":"036",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Der Alte Logan",
         "Klasse":"Mutant",
         "Image":"132",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Der Aufseher",
         "Klasse":"Forschung",
         "Image":"226",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Der Destroyer",
         "Klasse":"Mystisch",
         "Image":"297",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Der Geier",
         "Klasse":"Technologie",
         "Image":"114",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Der Leader",
         "Klasse":"Forschung",
         "Image":"000",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Der Maulwurf",
         "Klasse":"Talent",
         "Image":"174",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Diablo",
         "Klasse":"Mystisch",
         "Image":"112",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Die Menschliche Fackel",
         "Klasse":"Forschung",
         "Image":"110",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Die Unsichtbare",
         "Klasse":"Forschung",
         "Image":"153",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Doktor Doom",
         "Klasse":"Mystisch",
         "Image":"164",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Doktor Octopus",
         "Klasse":"Technologie",
         "Image":"115",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Doktor Strange",
         "Klasse":"Mystisch",
         "Image":"071",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Doktor Voodoo",
         "Klasse":"Mystisch",
         "Image":"072",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Domino",
         "Klasse":"Mutant",
         "Image":"037",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Dormammu",
         "Klasse":"Mystisch",
         "Image":"073",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Dragon Man",
         "Klasse":"Mystisch",
         "Image":"187",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Drax",
         "Klasse":"Kosmos",
         "Image":"005",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Dust",
         "Klasse":"Mutant",
         "Image":"302",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Ebony Maw",
         "Klasse":"Mystisch",
         "Image":"143",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Electro",
         "Klasse":"Forschung",
         "Image":"056",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Elektra",
         "Klasse":"Talent",
         "Image":"019",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Elsa Bloodstone",
         "Klasse":"Talent",
         "Image":"162",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Emma Frost",
         "Klasse":"Mutant",
         "Image":"038",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
       {
         "Name":"Enchantress",
         "Klasse":"Mystisch",  
         "Image":"000",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Falcon",
         "Klasse":"Talent",
         "Image":"006",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Fegefeuer",
         "Klasse":"Mystisch",
         "Image":"207",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Galan",
         "Klasse":"Kosmos",
         "Image":"242",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Gambit",
         "Klasse":"Mutant",
         "Image":"039",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Gamora",
         "Klasse":"Kosmos",
         "Image":"092",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Ghost",
         "Klasse":"Technologie",
         "Image":"116",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":[]
     }, 
     {
         "Name":"Ghost Rider",
