@@ -693,413 +693,357 @@
         "Image":"116",
         "Tags":[],
         "Skills":[],
-        "Immunities":[]
+		"Immunities":[]
     }, 
     {
         "Name":"Ghost Rider",
         "Klasse":"Mystisch",
         "Image":"074",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],
+		"Immunities":[]
+	},
     {
         "Name":"Gladiator",
         "Klasse":"Kosmos",
         "Image":"281",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Goldpool",
         "Klasse":"Mutant",
         "Image":"144",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {    "Name":"Gorr",
         "Klasse":"Kosmos",
         "Image":"236",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Green Goblin",
         "Klasse":"Technologie",
         "Image":"145",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Groot",
         "Klasse":"Kosmos",
         "Image":"093",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Guardian",
         "Klasse":"Technologie",
         "Image":"185",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Guillotine",
         "Klasse":"Mystisch",
         "Image":"007",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Guillotine (Deathless)",
         "Klasse":"Mystisch",
         "Image":"289",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Guillotine 2099",
         "Klasse":"Technologie",
         "Image":"163",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Gwenpool",
         "Klasse":"Talent",
         "Image":"020",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Havok",
         "Klasse":"Mutant",
         "Image":"125",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Hawkeye",
         "Klasse":"Talent",
         "Image":"021",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Heimdall",
         "Klasse":"Kosmos",
         "Image":"094",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Hela",
         "Klasse":"Kosmos",
         "Image":"095",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Herkules",
         "Klasse":"Kosmos",
         "Image":"219",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Hit-Monkey",
         "Klasse":"Talent",
         "Image":"183",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Howard die Ente",
         "Klasse":"Technologie",
         "Image":"117",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Hulk",
         "Klasse":"Forschung",
         "Image":"057",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Hulk (Ragnar\u00F6k)",
         "Klasse":"Forschung",
         "Image":"058",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Hulk (Unsterblich)",
         "Klasse":"Forschung",
         "Image":"194",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Hulkbuster",
         "Klasse":"Technologie",
         "Image":"118",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Hulkling",
         "Klasse":"Kosmos",
         "Image":"232",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Hyperion",
         "Klasse":"Kosmos",
         "Image":"096",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Iceman",
         "Klasse":"Mutant",
         "Image":"040",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Ikaris",
         "Klasse":"Kosmos",
         "Image":"214",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Iron Fist",
         "Klasse":"Mystisch",
         "Image":"075",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Iron Fist (Immortal)",
         "Klasse":"Mystisch",
         "Image":"217",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Iron Man",
         "Klasse":"Technologie",
         "Image":"119",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Iron Man (Infamous)",
         "Klasse":"Technologie",
         "Image":"245",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Iron Man (Infinity War)",
         "Klasse":"Technologie",
         "Image":"120",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Iron Patriot",
         "Klasse":"Technologie",
         "Image":"121",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Ironheart",
         "Klasse":"Technologie",
         "Image":"296",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Jabari Panther",
         "Klasse":"Talent",
         "Image":"203",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Jessica Jones",
         "Klasse":"Forschung",
         "Image":"251",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Joe Fixit",
         "Klasse":"Forschung",
         "Image":"059",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Jubilee",
         "Klasse":"Mutant",
         "Image":"198",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Juggernaut",
         "Klasse":"Mystisch",
         "Image":"076",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Kang",
         "Klasse":"Technologie",
         "Image":"146",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Karnak",
         "Klasse":"Talent",
         "Image":"022",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Kate Bishop",
         "Klasse":"Talent",
         "Image":"268",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Killmonger",
         "Klasse":"Talent",
         "Image":"023",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Kindred",
         "Klasse":"Mystisch",
         "Image":"278",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Kingpin",
         "Klasse":"Talent",
         "Image":"024",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Kitty Pryde",
         "Klasse":"Mutant",
         "Image":"211",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Knull",
         "Klasse":"Kosmos",
         "Image":"213",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"k\u00F6nig Groot",
         "Klasse":"Kosmos",
         "Image":"097",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"k\u00F6nig Groot (Todlos)",
         "Klasse":"Kosmos",
         "Image":"295",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Korg",
         "Klasse":"Talent",
         "Image":"025",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Kosmischer Ghost Rider",
         "Klasse":"Kosmos",
         "Image":"190",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Kraven",
         "Klasse":"Talent",
         "Image":"222",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Kushala",
         "Klasse":"Mystisch",
         "Image":"280",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Lady Deathstrike",
         "Klasse":"Technologie",
         "Image":"279",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Loki",
         "Klasse":"Mystisch",
         "Image":"077",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Longshot",
         "Klasse":"Mystisch",
         "Image":"172",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Luke Cage",
         "Klasse":"Forschung",
         "Image":"060",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"M.O.D.O.K.",
         "Klasse":"Forschung",
         "Image":"061",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Maestro",
         "Klasse":"Kosmos",
         "Image":"288",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Magik",
         "Klasse":"Mystisch",
@@ -1110,476 +1054,408 @@
         "Klasse":"Mutant",
         "Image":"041",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Magneto (House of X)",
         "Klasse":"Mutant",
         "Image":"042",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Mangog",
         "Klasse":"Mystisch",
         "Image":"197",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Man-Thing",
         "Klasse":"Mystisch",
         "Image":"161",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Mantis",
         "Klasse":"Talent",
         "Image":"252",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Masacre",
         "Klasse":"Talent",
         "Image":"026",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Medusa",
         "Klasse":"Kosmos",
         "Image":"098",
         "Tags":[],
-        "Skills":[]
-    },    
+        "Skills":[],"Immunities":[]},   
     {
         "Name":"Megasonic Teenage Warhead",
         "Klasse":"Mutant",
         "Image":"294",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Mephisto",
         "Klasse":"Mystisch",
         "Image":"147",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Mister Fantastic",
         "Klasse":"Forschung",
         "Image":"165",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Mister Negative",
         "Klasse":"Forschung",
         "Image":"206",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Mister Sinister",
         "Klasse":"Mutant",
         "Image":"126",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Misty Knight",
         "Klasse":"Talent",
         "Image":"225",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Mojo",
         "Klasse":"Mystisch",
         "Image":"173",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Moon Knight",
         "Klasse":"Talent",
         "Image":"027",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Moondragon",
         "Klasse":"Talent",
         "Image":"272",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Morbius",
         "Klasse":"Forschung",
         "Image":"282",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Mordo",
         "Klasse":"Mystisch",
         "Image":"078",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Morningstar",
         "Klasse":"Mystisch",
         "Image":"079",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Ms. Marvel",
         "Klasse":"Kosmos",
         "Image":"099",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Ms. Marvel (Kamala Khan)",
         "Klasse":"Kosmos",
         "Image":"100",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Mysterio",
         "Klasse":"Technologie",
         "Image":"158",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Namor",
         "Klasse":"Mutant",
         "Image":"152",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Nebula",
         "Klasse":"Technologie",
         "Image":"122",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Nick Fury",
         "Klasse":"Talent",
         "Image":"111",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Night Thrasher",
         "Klasse":"Talent",
         "Image":"127",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Nightcrawler",
         "Klasse":"Mutant",
         "Image":"043",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Nimrod",
         "Klasse":"Technologie",
         "Image":"210",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Northstar",
         "Klasse":"Mutant",
         "Image":"293",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Nova",
         "Klasse":"Kosmos",
         "Image":"169",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Odin",
         "Klasse":"Kosmos",
         "Image":"199",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Omega Red",
         "Klasse":"Mutant",
         "Image":"044",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Omega Sentinel",
         "Klasse":"Technologie",
         "Image":"229",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Onslaught",
         "Klasse":"Mutant",
         "Image":"303",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Patriot",
         "Klasse":"Talent",
         "Image":"000",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Peni Parker",
         "Klasse":"Technologie",
         "Image":"208",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Phoenix",
         "Klasse":"Kosmos",
         "Image":"101",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Photon",
         "Klasse":"Forschung",
         "Image":"283",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Platinpool",
         "Klasse":"Mutant",
         "Image":"192",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Professor X",
         "Klasse":"Mutant",
         "Image":"191",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Prowler",
         "Klasse":"Technologie",
         "Image":"292",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Proxima Midnight",
         "Klasse":"Kosmos",
         "Image":"102",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Psycho-Man",
         "Klasse":"Technologie",
         "Image":"202",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Psylocke",
         "Klasse":"Mutant",
         "Image":"045",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Punisher",
         "Klasse":"Talent",
         "Image":"028",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Punisher 2099",
         "Klasse":"Technologie",
         "Image":"123",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Quake",
         "Klasse":"Forschung",
         "Image":"062",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Quicksilver",
         "Klasse":"Forschung",
         "Image":"243",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Red Goblin",
         "Klasse":"Kosmos",
         "Image":"188",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Red Guardian",
         "Klasse":"Forschung",
         "Image":"179",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Red Skull",
         "Klasse":"Technologie",
         "Image":"133",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Rhino",
         "Klasse":"Forschung",
         "Image":"063",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Rintrah",
         "Klasse":"Mystisch",
         "Image":"235",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Rocket Racoon",
         "Klasse":"Technologie",
         "Image":"124",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Rogue",
         "Klasse":"Mutant",
         "Image":"046",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Ronan",
         "Klasse":"Kosmos",
         "Image":"103",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Ronin",
         "Klasse":"Talent",
         "Image":"148",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Roter Hulk",
         "Klasse":"Forschung",
         "Image":"064","Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Sabretooth",
         "Klasse":"Mutant",
         "Image":"047",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Sandman",
         "Klasse":"Forschung",
         "Image":"269",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Sasquatch",
         "Klasse":"Mystisch",
         "Image":"184",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Sauron",
         "Klasse":"Mutant",
         "Image":"221",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Scarlet Witch",
         "Klasse":"Mystisch",
         "Image":"218",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Scarlet Witch (Klassisch)",
         "Klasse":"Mystisch",
         "Image":"080",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Schwarze Katze",
         "Klasse":"Talent",
         "Image":"230",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Sentinel",
         "Klasse":"Technologie",
         "Image":"134",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Sentry",
         "Klasse":"Forschung",
         "Image":"065",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Serpent",
         "Klasse":"Kosmos",
         "Image":"301",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Sersi",
         "Klasse":"Kosmos",
@@ -1591,468 +1467,402 @@
         "Klasse":"Talent",
         "Image":"205",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"She-Hulk",
         "Klasse":"Forschung",
         "Image":"139",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Shocker",
         "Klasse":"Technologie",
         "Image":"270",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Shuri",
         "Klasse":"Technologie",
         "Image":"247",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Silk",
         "Klasse":"Forschung",
         "Image":"277",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Silver Centurion",
         "Klasse":"Technologie",
         "Image":"204",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Silver Sable",
         "Klasse":"Talent",
         "Image":"298",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Silver Surfer",
         "Klasse":"Kosmos",
         "Image":"170",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Skorpion",
         "Klasse":"Forschung",
         "Image":"231",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Sorcerer Supreme",
         "Klasse":"Mystisch",
         "Image":"178",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spider-Gwen",
         "Klasse":"Forschung",
         "Image":"066",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spider-Ham",
         "Klasse":"Forschung",
         "Image":"195",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spider-Man (Klassisch)",
         "Klasse":"Forschung",
         "Image":"067",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spider-Man (Miles Morales)",
         "Klasse":"Forschung",
         "Image":"068",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spider-Man (Stark Aufger\u00FCstet)",
         "Klasse":"Technologie",
         "Image":"011",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spider-Man (Supreme)",
         "Klasse":"Mystisch",
         "Image":"249",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spider-Man (Symbiont)",
         "Klasse":"Kosmos",
         "Image":"104",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spider-Man (Tarnanzug)",
         "Klasse":"Talent",
         "Image":"155",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spider-Man 2099",
         "Klasse":"Forschung",
         "Image":"209",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spider-Punk",
         "Klasse":"Forschung",
         "Image":"299",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Spot",
         "Klasse":"Forschung",
         "Image":"248",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Squirrel Girl",
         "Klasse":"Talent",
         "Image":"166",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Star-Lord",
         "Klasse":"Technologie",
         "Image":"135",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Storm",
         "Klasse":"Mutant",
         "Image":"048",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Storm (Pyramid X)",
         "Klasse":"Mutant",
         "Image":"181",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Stryfe",
         "Klasse":"Mutant",
         "Image":"201",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Sunspot",
         "Klasse":"Mutant",
         "Image":"156",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Superior Iron Man",
         "Klasse":"Kosmos",
         "Image":"105",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Super-Skrull",
         "Klasse":"Kosmos",
         "Image":"200",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Symbiont Supreme",
         "Klasse":"Mystisch",
         "Image":"081",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Taskmaster",
         "Klasse":"Talent",
         "Image":"029",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Terrax",
         "Klasse":"Kosmos",
         "Image":"175",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Thanos",
         "Klasse":"Kosmos",
         "Image":"149",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"The Hood",
         "Klasse":"Mystisch",
         "Image":"082",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Thor",
         "Klasse":"Kosmos",
         "Image":"106",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Thor (Jane Foster)",
         "Klasse":"Mystisch",
         "Image":"083",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Thor (Ragnar\u00F6k)",
         "Klasse":"Talent",
         "Image":"030",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Tigra",
         "Klasse":"Mystisch",
         "Image":"182",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Titania",
         "Klasse":"Forschung",
         "Image":"244",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Toad",
         "Klasse":"Mutant",
         "Image":"220",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Ultron"
         ,"Klasse":"Technologie",
         "Image":"129",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Ultron (Klassisch)",
         "Klasse":"Technologie",
         "Image":"128",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Unaufhaltsamer Colossus",
         "Klasse":"Mystisch",
         "Image":"084",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Valkyrie",
         "Klasse":"Talent",
         "Image":"237",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Venom",
         "Klasse":"Kosmos",
         "Image":"107",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Venom die Ente",
         "Klasse":"Technologie",
         "Image":"150",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Venompool",
         "Klasse":"Kosmos",
         "Image":"108",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Vision",
         "Klasse":"Technologie",
         "Image":"136",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Vision (Aarkus)",
         "Klasse":"Kosmos",
         "Image":"160",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Vision (Age of Ultron)",
         "Klasse":"Technologie",
         "Image":"010",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Vision (Todlos)",
         "Klasse":"Technologie",
         "Image":"000",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Viv Vision",
         "Klasse":"Technologie",
         "Image":"267",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Void",
         "Klasse":"Forschung",
         "Image":"069",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Vox",
         "Klasse":"Kosmos",
         "Image":"284",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"War Machine",
         "Klasse":"Technologie",
         "Image":"137",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Warlock",
         "Klasse":"Technologie",
         "Image":"157",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Wasp",
         "Klasse":"Forschung",
         "Image":"070",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Werwolf bei Nacht",
         "Klasse":"Mystisch",
         "Image":"285",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"White Tiger",
         "Klasse":"Forschung",
         "Image":"300",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Wiccan",
         "Klasse":"Mystisch",
         "Image":"233",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Winter Soldier",
         "Klasse":"Talent",
         "Image":"031",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Wolverine",
         "Klasse":"Mutant",
         "Image":"049",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Wolverine (Weapon X)",
         "Klasse":"Mutant",
         "Image":"189",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Wolverine (X-23)",
         "Klasse":"Mutant",
         "Image":"050",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Wong",
         "Klasse":"Mystisch",
         "Image":"234",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Yellow Jacket",
         "Klasse":"Forschung",
         "Image":"009",
         "Tags":[],
-        "Skills":[]
-    }, 
+        "Skills":[],"Immunities":[]},
     {
         "Name":"Yondu",
         "Klasse":"Technologie",
         "Image":"138",
         "Tags":[],
-        "Skills":[]
+        ,"Immunities":[]
     }
 ]
