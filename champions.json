@@ -604,10 +604,27 @@
 		"Name": "Colossus",
 		"Klasse": "Mutant",
 		"Image": "004",
-		"Tags": [],
+		"Tags": [
+			"#Defensiv:Schutz",
+			"#Held",
+			"#Metall",
+			"#Größe:L",
+			"#EQ:Romantik",
+			"#X-Men",
+			"#X-Force",
+			"#AW:Rüstungsentfkräftung",
+			"#X.Magica",
+			"#RAIDS:Avantgarde",
+			"#2014"
+		],
 		"Skills": [],
 		"Immunities": [
-			"Blut"
+			"Blutrausch",
+			"Einäschern",
+			"Kälteeinbruch",
+			"Frostbeule",
+			"Rüstungsbruch",
+			"Zerschmetterte Rüstung"
 		]
 	},
 	{
