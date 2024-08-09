@@ -2392,7 +2392,9 @@
 		"Image": "069",
 		"Tags": [],
 		"Skills": [],
-		"Immunities": []
+		"Immunities": [
+			"Einäschern"
+		]
 	},
 	{
 		"Name": "Vox",
