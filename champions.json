@@ -312,7 +312,8 @@
         "Klasse":"Mutant",
         "Image":"004",
         "Tags":[],
-        "Skills":[]
+        "Skills":[],
+        "Immunities":["Bleed"]
     }, 
     {
         "Name":"Corvus Glaive",
