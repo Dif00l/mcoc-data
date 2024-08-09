@@ -617,7 +617,12 @@
 			"#RAIDS:Avantgarde",
 			"#2014"
 		],
-		"Skills": [],
+		"Skills": [
+			"Immun gegen Blutrausch",
+			"Rüstung",
+			"Lähmung",
+			"Ermüdung"
+		],
 		"Immunities": [
 			"Blutrausch",
 			"Einäschern",
