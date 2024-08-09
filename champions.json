@@ -38,7 +38,7 @@
 			"#2020"
 		],
 		"Skills": [
-			"Säureverbrennung",
+			"S\u00E4ureverbrennung",
 			"Erschöpfung",
 			"Versteinern",
 			"Vergiftung"
@@ -377,7 +377,7 @@
 		"Immunities": []
 	},
 	{
-		"Name": "Auserwählter Symbioid",
+		"Name": "Auserw\u00E4hlter Symbioid",
 		"Klasse": "Spezial",
 		"Image": "000",
 		"Tags": [
@@ -620,12 +620,12 @@
 		"Skills": [
 			"Immun gegen Blutrausch",
 			"Rüstung",
-			"Lähmung",
+			"L\u00E4hmung",
 			"Ermüdung"
 		],
 		"Immunities": [
 			"Blutrausch",
-			"Einäschern",
+			"Ein\u00E4schern",
 			"Kälteeinbruch",
 			"Frostbeule",
 			"Rüstungsbruch",
