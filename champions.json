@@ -396,7 +396,16 @@
 		"Name": "Baron Zemo",
 		"Klasse": "Talent",
 		"Image": "253",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:Schaden über gewissen Zeitraum",
+			"#Kontrolle:Verweigerung",
+			"#Schurke",
+			"#Metall",
+			"#Größe:M",
+			"#Blitzschläge",
+			"#Magischer Dieb",
+			"#2023"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -404,7 +413,15 @@
 		"Name": "Beast",
 		"Klasse": "Mutant",
 		"Image": "001",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv grober Schaden",
+			"#Held",
+			"#Größe:L",
+			"#X-Men",
+			"#Illuminati",
+			"#2016"
+			
+		],
 		"Skills": [],
 		"Immunities": []
 	},
