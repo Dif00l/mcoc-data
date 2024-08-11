@@ -2246,7 +2246,9 @@
 		"Image": "175",
 		"Tags": [],
 		"Skills": [],
-		"Immunities": []
+		"Immunities": [
+			"Schock"
+		]
 	},
 	{
 		"Name": "Thanos",
