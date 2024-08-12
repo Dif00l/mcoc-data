@@ -446,7 +446,14 @@
 		"Name": "Bishop",
 		"Klasse": "Mutant",
 		"Image": "002",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Held",
+			"#Größe:L",
+			"#X-Men",
+			"#X-Magica",
+			"#2018"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -454,18 +461,18 @@
 		"Name": "Black Bolt",
 		"Klasse": "Kosmos",
 		"Image": "086",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:grober Schaden",
+			"#Held",
+			"#Größe:M",
+			"#Illuminati",
+			"#Inhuman",
+			"#Königliche Familie der Inhumans",
+			"#2014"
+		],
 		"Skills": [],
 		"Immunities": []
-	},
-	{
-		"Name": "Black Cat",
-		"Klasse": "Talent",
-		"Image": "230",
-		"Tags": [],
-		"Skills": [],
-		"Immunities": []
-	},
+	},	
 	{
 		"Name": "Black Panther",
 		"Klasse": "Talent",
@@ -1982,7 +1989,16 @@
 		"Name": "Schwarze Katze",
 		"Klasse": "Talent",
 		"Image": "230",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Held",
+			"#Größe:S",
+			"#EQ:Romantik",
+			"#Klarheit",
+			"#RAIDS:Avantgarde",
+			"#2022",
+			"#Saga-Angreifer"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
