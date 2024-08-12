@@ -477,7 +477,16 @@
 		"Name": "Black Panther",
 		"Klasse": "Talent",
 		"Image": "013",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv: Schaden über gewissen Zeitraum",
+			"#Held",
+			"#Größe:M",
+			"#EQ:Romantik",
+			"#Illuminati",
+			"#Avengers",
+			"#RAIDS:Avantgarde",
+			"#2014"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -485,7 +494,14 @@
 		"Name": "Black Panther (Civil War)",
 		"Klasse": "Talent",
 		"Image": "012",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:Schutz",
+			"#Held",
+			"#Größe:M",
+			"#Avengers",
+			"#Magischer Dieb",
+			"#2016"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -493,7 +509,17 @@
 		"Name": "Black Widow",
 		"Klasse": "Talent",
 		"Image": "015",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Söldner",
+			"#Held",
+			"#Größe:S",
+			"#EQ:Romantik",
+			"#S.H.I.L.D.",
+			"#Champions",
+			"#Avengers",
+			"#2015"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -501,7 +527,14 @@
 		"Name": "Black Widow (Claire Voyant)",
 		"Klasse": "Mystisch",
 		"Image": "159",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Kontrolle: Verweigerung",
+			"#Held",
+			"#Größe:S",
+			"#X-Magica",
+			"#2019"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -509,7 +542,21 @@
 		"Name": "Black Widow (Deadly Origin)",
 		"Klasse": "Talent",
 		"Image": "180",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Söldner",
+			"#Held",
+			"#Größe:S",
+			"#EQ:Es ist kompliziert",
+			"#S.H.I.E.L.D.",
+			"#Champions",
+			"#Avengers",
+			"#Magischer Dieb",
+			"#Klarheit",
+			"#RAIDS:Angriff",
+			"#2020",
+			"#Saga-Angreifer"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -517,7 +564,19 @@
 		"Name": "Blade",
 		"Klasse": "Talent",
 		"Image": "003",
-		"Tags": [],
+		"Tags": [
+			"#Defensiv:Nutzen",
+			"#Held",
+			"#Größe:M",
+			"#Silber",
+			"#Migthy Avengers",
+			"#AW:Verfall",
+			"#Magischer Dieb",
+			"#Klarheit",
+			"#RAIDS:Angriff",
+			"#2017",
+			"#Saga-Angreifer"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -525,7 +584,9 @@
 		"Name": "Bullseye",
 		"Klasse": "Talent",
 		"Image": "291",
-		"Tags": [],
+		"Tags": [
+			
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -533,7 +594,16 @@
 		"Name": "Cable",
 		"Klasse": "Mutant",
 		"Image": "033",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Held",
+			"#Metall",
+			"#Größe:L",
+			"#EQ:Es ist kompliziert",
+			"#X-Men",
+			"#X-Force",
+			"#2017"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -541,7 +611,15 @@
 		"Name": "Captain America",
 		"Klasse": "Forschung",
 		"Image": "053",
-		"Tags": [],
+		"Tags": [
+			"#Defensiv:Schutz",
+			"#Held",
+			"#Größe:M",
+			"#EQ:Romantik",
+			"#Avengers",
+			"#S.H.I.E.L.D.",
+			"#2014"			
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -549,7 +627,15 @@
 		"Name": "Captain America (Infinity War)",
 		"Klasse": "Forschung",
 		"Image": "054",
-		"Tags": [],
+		"Tags": [
+			"#Defensiv:Nutzen",
+			"#Held",
+			"#Größe:M",
+			"#EQ:Romantik",
+			"#Avengers",
+			"#Carinas Herausorderer",
+			"#2018"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -557,7 +643,18 @@
 		"Name": "Captain America (Sam Wilson)",
 		"Klasse": "Technologie",
 		"Image": "224",
-		"Tags": [],
+		"Tags": [
+			"#Kontrolle:Verweigerung",
+			"#Held",
+			"#Größe:M",
+			"#Avengers",
+			"#Migthy Avengers",
+			"#AW:Plattmachen",
+			"#AW:Rüstungsentkräftung",
+			"#Wegducken",
+			"#2022",
+			"#Saga-Verteidiger"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
