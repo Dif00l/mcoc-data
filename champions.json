@@ -429,7 +429,16 @@
 		"Name": "Beta Ray Bill",
 		"Klasse": "Kosmos",
 		"Image": "000",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Held",
+			"#Größe:L",
+			"#Metall",
+			"#Guardians of the Galaxy",
+			"#Klarheit",
+			"#2024",
+			"#Saga-Angreifer"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
