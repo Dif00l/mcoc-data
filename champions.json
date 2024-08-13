@@ -585,7 +585,15 @@
 		"Klasse": "Talent",
 		"Image": "291",
 		"Tags": [
-			
+			"#Offensiv:Schub",
+			"#Schurke",
+			"#Söldner",
+			"#Größe:M",
+			"#Blitzschläge",
+			"#Magischer Dieb",
+			"#Klarheit",
+			"#2024",
+			"#Saga-Angreifer"
 		],
 		"Skills": [],
 		"Immunities": []
@@ -694,7 +702,13 @@
 		"Name": "Carnage",
 		"Klasse": "Kosmos",
 		"Image": "089",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:grober Schaden",
+			"#Schurke",
+			"#Symbiont",
+			"#Größe:M",
+			"#2017"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -878,7 +892,13 @@
 		"Name": "Der Destroyer",
 		"Klasse": "Mystisch",
 		"Image": "297",
-		"Tags": [],
+		"Tags": [
+			"#Defensiv:Panzer",
+			"#Psychische Abschirmung",
+			"#Größe:XL",
+			"#X-Magica",
+			"#2024"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -894,7 +914,17 @@
 		"Name": "Der Leader",
 		"Klasse": "Forschung",
 		"Image": "000",
-		"Tags": [],
+		"Tags": [
+			"#Offensiv:Schaden über gewissen Zeitraum",
+			"#Defensiv:Schutz",
+			"#Metall",
+			"#Schurke",
+			"#Gamma",
+			"#Größe:M",
+			"#Wegducken",
+			"#2024",
+			"#Saga-Verteidiger"
+		],
 		"Skills": [],
 		"Immunities": []
 	},
