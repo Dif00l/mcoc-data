@@ -81,7 +81,18 @@
     "Name":"Ms. Marvel",
     "Klasse":"",
     "Basisskill":"Der letzte Treffer gewährt einen 12-sekündigen Präzisions-Buff, der die Kritische Wertung um XX erhöht.",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[
+        {"Name":"Sternenverteidigerin"},
+        {"Name":"Luftwaffendyname"}
+      ]},
+      {"Slot2":[
+        {"Name":"Totalschadenverlängerung"},
+        {"Name";"Volltrefferverlängerung"},
+        {"Name":"Kritischer-Schaden-Erhöhung"}
+      ]}
+    ]
   },
   {
     "Name":"Scarlet Witch",
