@@ -84,13 +84,28 @@
     "Erweckungsskill":"",
     "Runes":[
       {"Slot1":[
-        {"Name":"Sternenverteidigerin"},
-        {"Name":"Luftwaffendyname"}
+        {
+          "Name":"Sternenverteidigerin",
+          "Effekt":"Wenn die Automatische Abwehr eines Gegners oder ein Ausweichen aus einem anderen Grund als dem Zufall nicht ausgelöst werden, wird ihm ein Ausbruch von X Direktschaden zugefügt. Nova: für jeden Wutausbruchs- oder Volltreffer-Buff haben Superkräfte pauschal eine 9%-Chance, einen Unabwehrbarkeits-Buff von 3 Sekunden zu gewähren."
+        },
+        {
+          "Name":"Luftwaffendyname",
+          "Effekt":"Treffer, die Volltreffer ergeben oder Totalschaden verursachen, gewinnen X Kritische Wertung. Sersi: Während ein Totalschaden-Buff aktiv ist, erhält die 2.Superkraft X Kritische Wertung. Ein Totalschaden-Buff wird verbraucht, nachdem dieser Angriff beendet ist."
+        }
       ]},
       {"Slot2":[
-        {"Name":"Totalschadenverlängerung"},
-        {"Name";"Volltrefferverlängerung"},
-        {"Name":"Kritischer-Schaden-Erhöhung"}
+        {
+          "Name":"Totalschadenverlängerung",
+          "Effekt":"+X% Totalschaden-Buff-Dauer"
+        },
+        {
+          "Name":"Volltrefferverlängerung",
+          "Effekt":"+X% Volltreffer-Buff-Dauer"
+        },
+        {
+          "Name":"Kritischer-Schaden-Erhöhung",
+          "Effekt":"+X% Kritischer-Schaden-Wertung"
+        }
       ]}
     ]
   },
