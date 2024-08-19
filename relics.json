@@ -111,8 +111,7 @@
     "Name":"Thor",
     "Klasse":"Kosmos",
     "Basisskill":"Der letzte Schlag gewährt einen Begabungs-Buff, der die Potenz von Wutausbruchs-, Aufrüstungs- und Präzisions-Buffs um XX% für 16 Sekunden erhöht.",
-    "Erweckungsskill":"Wenn während des Kampfes zum ersten Mal ein unbegrenzter Wutausbruchs- Präzisions- oder Aufrüstungs-Buff erlangt wird, während ein Begabungs-Buff aktiv ist, erlangt man eine unbegrenzte, passive Begabung, die die Potenz von wutausbruch, aufrüstung und Präzision um 2,5% erhöht.
-    Wenn alle 3 passiven Begabungen aktiv sind, erhalte einen unbegrenzten Intensivieren-Buff, der die Potenz zukünftiger Buffs um X% erhöht."
+    "Erweckungsskill":"Wenn während des Kampfes zum ersten Mal ein unbegrenzter Wutausbruchs- Präzisions- oder Aufrüstungs-Buff erlangt wird, während ein Begabungs-Buff aktiv ist, erlangt man eine unbegrenzte, passive Begabung, die die Potenz von wutausbruch, aufrüstung und Präzision um 2,5% erhöht.     Wenn alle 3 passiven Begabungen aktiv sind, erhalte einen unbegrenzten Intensivieren-Buff, der die Potenz zukünftiger Buffs um X% erhöht."
   },
   {
     "Name":"Valkyre",
