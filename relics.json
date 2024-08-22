@@ -25,7 +25,7 @@
   },
   {
     "Name":"Gambit",
-    "Klasse":"Mutant"
+    "Klasse":"Mutant",
     "Basisskill":"Der letzte Treffer gewährt eine nicht-stapelbare passive XX%-Physische-Resistenz für 8 Sekunden. Rogue: Setze bei aktivierung des Anrenners den Übernahme-Buff-Timer aus. Der Letzte Treffer gewährt eine passive Tapferkeit von x% für 9 Sekunden.",
     "Erweckungsskill":""
   },
