@@ -5,8 +5,14 @@
     "Basisskill":"",
     "Erweckungsskill":"",
     "Runes":[
-      {"Slot1":[]},
-      {"Slot2":[]}
+      {"Slot1":[
+        {"Name":""},
+        {"Effekt":""}        
+      ]},
+      {"Slot2":[
+         {"Name":""},
+         {"Effekt":""}     
+      ]}
     ]
   },
   {
