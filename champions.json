@@ -974,7 +974,11 @@
 		"Image": "115",
 		"Tags": [],
 		"Skills": [],
-		"Immunities": []
+		"Immunities": [
+			"Rüstungsbruch",
+			"Zerschmetterte Rüstung",
+			"Schock"
+		]
 	},
 	{
 		"Name": "Doktor Strange",
@@ -1204,9 +1208,14 @@
 		"Name": "Guillotine 2099",
 		"Klasse": "Technologie",
 		"Image": "163",
-		"Tags": [],
+		"Tags": [
+			"Roboter"
+		],
 		"Skills": [],
-		"Immunities": []
+		"Immunities": [
+			"Blutrausch",
+			"Vergiftung"
+		]
 	},
 	{
 		"Name": "Gwenpool",
@@ -1470,7 +1479,13 @@
 		"Image": "278",
 		"Tags": [],
 		"Skills": [],
-		"Immunities": []
+		"Immunities": [
+			"Gift",
+			"Einäschern",
+			"Heilblockade",
+			"Weißglut",
+			"Einschüchterung"
+		]
 	},
 	{
 		"Name": "Kingpin",
@@ -1526,7 +1541,10 @@
 		"Image": "190",
 		"Tags": [],
 		"Skills": [],
-		"Immunities": []
+		"Immunities": [
+			"Blutrausch",
+			"Einäschern"
+		]
 	},
 	{
 		"Name": "Kraven",
@@ -2375,7 +2393,9 @@
 		"Image": "156",
 		"Tags": [],
 		"Skills": [],
-		"Immunities": []
+		"Immunities": [
+			"Einäschern"
+		]
 	},
 	{
 		"Name": "Superior Iron Man",
