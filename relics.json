@@ -3,7 +3,11 @@
     "Name":"Ant-Man",
     "Klasse":"Forschung",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    Runes:[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Black Panther",
