@@ -240,6 +240,11 @@
     "Klasse":"Kosmos",
     "Basisskill":"Der letzte Schlag führt einen Blutrausch-Verwundbarkeits-Debuff zu, was die Potenz zukünftiger Blutrauscheffekte um X% für 16 Sekunden erhöht.",
     "Erweckungsskill":"Füge für jeden einzigartigen Buff beim Champion eine passive unbegrenzte Blutrausch-Verwundbarkeit zu, die die Potenz zukünftiger Blutrausch-Effekte um X% erhöht. Maximale Buffs: 6."
+  ,
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Vison",
