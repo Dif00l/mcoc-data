@@ -2,17 +2,21 @@
   {
     "Name":"Ant-Man",
     "Klasse":"Forschung",
-    "Basisskill":"",
-    "Erweckungsskill":"",
+    "Basisskill":"Der letzte Schlag verursacht einen Powerstich-Debuff für 16 Sekunden. Ein Gegner mit Powerstich erleidet X Direktschaden wenn er oder sie eine Superkraft aktiviert.",
+    "Erweckungsskill":"Wenn ein Powerstich-Debuff dem Gegner Schaden zufügt, erlangt man die golgenden Effekte für den Rest des Kampfes, die sich bis zu 6-mal stapeln: +X Angriffswertung, während der Gegner einen Powerstich-Debuff hat. +X Direktschaden beim Powerstich-DebuffSchaden, Cooldown: 10Sekunden",
     "Runes":[
       {"Slot1":[
-        {"Name":""},
-        {"Effekt":""}        
+        {
+          "Name":"Powerstich-Panzererhöhung",
+          "Effekt":"+X% Powerstich-Debuff-Potenz"
+        }        
       ]
       },
       {"Slot2":[
-         {"Name":""},
-         {"Effekt":""}     
+         {
+           "Name":"",
+           "Effekt":""
+         }     
       ]}
     ]
   },
