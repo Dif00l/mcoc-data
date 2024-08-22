@@ -9,6 +9,14 @@
         {
           "Name":"Powerstich-Panzererhöhung",
           "Effekt":"+X% Powerstich-Debuff-Potenz"
+        },
+         {
+          "Name":"Powerstich-Dauererhöhung",
+          "Effekt":"+X% Powerstich-Debuff-Dauer"
+        },
+         {
+          "Name":"Superkraftschaenverringerung",
+          "Effekt":"-X% Superkraft-Schaden des Gegners"
         }        
       ]
       },
