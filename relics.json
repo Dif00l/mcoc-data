@@ -13,73 +13,121 @@
     "Name":"Black Panther",
     "Klasse":"Talent",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Black Widow",
     "Klasse":"Talent",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Captain America",
     "Klasse":"Forschung",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Gambit",
     "Klasse":"Mutant",
     "Basisskill":"Der letzte Treffer gewährt eine nicht-stapelbare passive XX%-Physische-Resistenz für 8 Sekunden. Rogue: Setze bei aktivierung des Anrenners den Übernahme-Buff-Timer aus. Der Letzte Treffer gewährt eine passive Tapferkeit von x% für 9 Sekunden.",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Gamora",
     "Klasse":"Kosmos",
     "Basisskill":"Der letzte Treffer gewährt einen Stoizismus-Buff, der die Genauigkeit der Fähigkeiten anderer Buffs um XX% für 10 Sekunden erhöht.",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Ghost Rider",
     "Klasse":"Mystisch",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Green Goblin",
     "Klasse":"Technologie",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Hulk",
     "Klasse":"Forschung",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Hulkbuster",
     "Klasse":"Technologie",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Iron Fist",
     "Klasse":"Mystisch",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Juggernaut",
     "Klasse":"Mystisch",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Mr. Sinister",
     "Klasse":"Mutant",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Ms. Marvel",
@@ -117,25 +165,41 @@
     "Name":"Scarlet Witch",
     "Klasse":"Mystisch",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Sentinel",
     "Klasse":"Technologie",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Spider-Man 2099",
     "Klasse":"Forschung",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Storm",
     "Klasse":"Mutant",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Thor",
@@ -147,7 +211,11 @@
     "Name":"Valkyre",
     "Klasse":"Talent",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Venom",
@@ -159,18 +227,30 @@
     "Name":"Vison",
     "Klasse":"Technologie",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Winter Soldier",
     "Klasse":"Talent",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   },
   {
     "Name":"Wolverine",
     "Klasse":"Mutant",
     "Basisskill":"",
-    "Erweckungsskill":""
+    "Erweckungsskill":"",
+    "Runes":[
+      {"Slot1":[]},
+      {"Slot2":[]}
+    ]
   }
 ]
