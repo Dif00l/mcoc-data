@@ -26,8 +26,8 @@
   {
     "Name":"Black Panther",
     "Klasse":"Talent",
-    "Basisskill":"",
-    "Erweckungsskill":"",
+    "Basisskill":"Der letzte Schlag gewährt einen Grausamkeits-Buff, der die Kritische-Schaden-Wertung über 10 Sekunden um X erhöht.",
+    "Erweckungsskill":"Garantierte Kritische Treffer gewähren pauschal +X Krititsche-Schaden-Wertung bei den Kritischen Treffern für den Rest des Kampfes. Maximale Schläge: X",
     "Runes":[
       {"Slot1":[]},
       {"Slot2":[]}
