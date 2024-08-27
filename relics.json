@@ -20,7 +20,18 @@
         }        
       ]
       },
-      {"Slot2":[]}
+      {"Slot2":[
+         {"Name":"Powerstich-Potenz-Erhöhung",
+        "Effekt":"+X% Powerstich-Debuff-Potenz"
+        },
+        {"Name":"Powerstich-Dauererhöhung",
+        "Effekt":"+X% Powerstich-Debuff-Dauer"
+        },
+        {
+          "Name":"Superkraftschadenverringerung",
+          "Effekt":"-X% Superkraftschaden des Gegners"          
+        }
+      ]}
     ]
   },
   {
