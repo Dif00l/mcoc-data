@@ -7,17 +7,13 @@
     "Runes":[
       {"Slot1":[
         {
-          "Name":"Powerstich-Panzererhöhung",
-          "Effekt":"+X% Powerstich-Debuff-Potenz"
+          "Name":"Doppelgiftstachel",
+          "Effekt":"Einen Powerstich-Debuff zu verursachen, fügt einen zusätzlichen Poerstich-Debuff von 16 Sekunden zu. Ein Gegner mit Powerstich erleidt X% Direktschaden, wenn er oder sie eine Superkraft aktiviert. Cooldown: 16 Sekunden."
         },
          {
-          "Name":"Powerstich-Dauererhöhung",
-          "Effekt":"+X% Powerstich-Debuff-Dauer"
-        },
-         {
-          "Name":"Superkraftschaenverringerung",
-          "Effekt":"-X% Superkraft-Schaden des Gegners"
-        }        
+          "Name":"Boshaftigskeit-Giftstachel",
+          "Effekt":"Wenn man einen Powerstich-Debuff zufügt, fügt man auch eine passive Stichelei zu, die die Angriffswertung um X% für 16 Sekunden verringert. Cooldown: 16 Sekunden."
+        } 
       ]
       },
       {"Slot2":[
