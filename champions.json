@@ -4,14 +4,14 @@
 		"Klasse": "Forschung",
 		"Image": "051",
 		"Tags": [
-			"#Defensiv:Panzer",
-			"#Schurke",
-			"#Gamma",
-			"#Größe XL",
-			"#Chronos Corps",
-			"#Blitzschläge",
-			"#AW:Trotz",
-			"#2014"
+			{"Tag":"#Defensiv:Panzer"},
+			{"Tag":"#Schurke"},
+			{"Tag":"#Gamma"},
+			{"Tag":"#Größe XL"},
+			{"Tag":"#Chronos Corps"},
+			{"Tag":"#Blitzschläge"},
+			{"Tag":"#AW:Trotz",
+			{"Tag":"#2014"}
 		],
 		"Skills": [
 			"Vergiftung",
