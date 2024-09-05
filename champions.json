@@ -27,15 +27,15 @@
 		"Klasse": "Forschung",
 		"Image": "196",
 		"Tags": [
-			"#Offensiv:Schaden über einen gewissen Zeitraum",
-			"#Defensiv:Panzer",
-			"#Schurke",
-			"#Gamma",
-			"#Größe:XL",
-			"AW:Trotz",
-			"#Carinas Herausforderer",
-			"#RAIDS:Avantgarde",
-			"#2020"
+				{"Tag":"#Offensiv:Schaden über einen gewissen Zeitraum"},
+				{"Tag":"#Defensiv:Panzer"},
+				{"Tag":"#Schurke"},
+				{"Tag":"#Gamma"},
+				{"Tag":"#Größe:XL"}},
+				{"Tag":"AW:Trotz"},
+				{"Tag":"#Carinas Herausforderer"},
+				{"Tag":"#RAIDS:Avantgarde"{"Tag":
+				{"Tag":"#2020"}
 		],
 		"Skills": [
 			"S\u00E4ureverbrennung",
@@ -50,16 +50,16 @@
 		"Klasse": "Mystisch",
 		"Image": "254",
 		"Tags": [
-			"#Defensiv:Panzer",
-			"#Offensiv:Schub",
-			"#Schurke",
-			"#Gamma",
-			"#Größe:L",
-			"#Söldner",
-			"#EQ:Romantik",
-			"#Culs Würdigkeit",
-			"#RAIDS:Avantgarde",
-			"#2023"
+			{"Tag":"#Defensiv:Panzer"},
+			{"Tag":"#Offensiv:Schub"},
+			{"Tag":"#Schurke"},
+			{"Tag":"#Gamma"},
+			{"Tag":"#Größe:L"},
+			{"Tag":"#Söldner"},
+			{"Tag":"#EQ:Romantik"},
+			{"Tag":"#Culs Würdigkeit"},
+			{"Tag":"#RAIDS:Avantgarde"},
+			{"Tag":"#2023"}
 		],
 		"Skills": [
 			"Reduzierung der Buff-Dauer",
