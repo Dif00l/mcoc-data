@@ -16,7 +16,7 @@
 		"Skills": [
 			"Vergiftung",
 			"Wutausbruch",
-			"Immum gegen Vergiftung"
+			"Immun gegen Vergiftung"
 		],
 		"Immunities": [
 				"Gift"
@@ -83,7 +83,7 @@
 			"#Magischer Dieb",
 			"#Klarheit",
 			"#2023",
-			"#Saga-Angreifer"
+			"#Saga-Champions"
 		],
 		"Skills": [
 			"Unabwehrbar",
@@ -104,7 +104,7 @@
 			"#Klarheit",
 			"#RAIDS:Angriff",
 			"#2018",
-			"#Saga-Angreifer"
+			"#Saga-Champions"
 		],
 		"Skills": [
 			"Beharrlichkeit",
@@ -195,7 +195,7 @@
 			"#Klarheit",
 			"#RAIDS:Taktiker",
 			"#2017",
-			"#Saga-Angreifer"
+			"#Saga-Champions"
 		],
 		"Skills": [
 			"Präzision",
@@ -279,7 +279,7 @@
 			"#Haus der Spiegel",
 			"#RAIDS:Avantgarde",
 			"#2023",
-			"#Saga-Verteidiger"
+			"#Saga-Champions"
 		],
 		"Skills": [
 			"Abprallen",
@@ -366,7 +366,7 @@
 			"#Culs Würdigkeit",
 			"#Klarheit",
 			"#2022",
-			"#Saga-Angreifer"
+			"#Saga-Champions"
 		],
 		"Skills": [
 			"Umkehrung der Genauigkeiten der Fähigkeiten",
@@ -437,7 +437,7 @@
 			"#Guardians of the Galaxy",
 			"#Klarheit",
 			"#2024",
-			"#Saga-Angreifer"
+			"#Saga-Champions"
 		],
 		"Skills": [],
 		"Immunities": []
@@ -555,7 +555,7 @@
 			"#Klarheit",
 			"#RAIDS:Angriff",
 			"#2020",
-			"#Saga-Angreifer"
+			"#Saga-Champions"
 		],
 		"Skills": [],
 		"Immunities": []
@@ -593,7 +593,7 @@
 			"#Magischer Dieb",
 			"#Klarheit",
 			"#2024",
-			"#Saga-Angreifer"
+			"#Saga-Champions"
 		],
 		"Skills": [],
 		"Immunities": []
@@ -661,7 +661,7 @@
 			"#AW:Rüstungsentkräftung",
 			"#Wegducken",
 			"#2022",
-			"#Saga-Verteidiger"
+			"#Saga-Champions"
 		],
 		"Skills": [],
 		"Immunities": []
@@ -923,7 +923,7 @@
 			"#Größe:M",
 			"#Wegducken",
 			"#2024",
-			"#Saga-Verteidiger"
+			"#Saga-Champions"
 		],
 		"Skills": [],
 		"Immunities": []
@@ -1163,6 +1163,33 @@
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
+	},
+	{
+		"Name":"Graf Nefaria",
+		"Klasse":"Forschung",
+		"Image":"000",
+		"Tags":[
+			"#Offensiv:Schub",
+			"#Schurke",
+			"#Fliegend",
+			"#Größe:M",
+			"#Secutor",
+			"#2024",
+			"#Saga-Champions"
+		],
+		"Skills":[
+			"Energieaufbau",
+			"Ausweichen",
+			"Ionische Überladung",
+			"Kraftzufuhr",
+			"Einäschern"
+		],
+		"Immunities":[
+			"Kraftraub",
+			"Blutrausch",
+			"90% Schock",
+			"90% Einäschern"
+		]
 	},
 	{
 		"Name": "Green Goblin",
@@ -2186,6 +2213,31 @@
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
+	},
+	{
+		"Name":"Shathra",
+		"Klasse":"Mystisch",
+		"Image":"000",
+		"Tags":[
+			"#Offensiv:Schaden über gewissen Zeitraum",
+			"#Schurke",
+			"#Fliegend",
+			"#Dimensionswesen",
+			"#Gott",
+			"#Größe:L",
+			"#Provocator",
+			"#2024",
+			"#Saga-Champions"
+		],
+		"Skills":[
+			"Energieschaden",
+			"Kraftraub",
+			"Auslöschen",
+			"Schwund",
+			"Unabwehrbar",
+			"Regeneration"
+		],
+		"Immunities":[]
 	},
 	{
 		"Name": "She-Hulk",
