@@ -428,7 +428,7 @@
 	{
 		"Name": "Beta Ray Bill",
 		"Klasse": "Kosmos",
-		"Image": "000",
+		"Image": "305",
 		"Tags": [
 			"#Offensiv:Schub",
 			"#Held",
@@ -913,7 +913,7 @@
 	{
 		"Name": "Der Leader",
 		"Klasse": "Forschung",
-		"Image": "000",
+		"Image": "308",
 		"Tags": [
 			"#Offensiv:Schaden über gewissen Zeitraum",
 			"#Defensiv:Schutz",
@@ -1167,7 +1167,7 @@
 	{
 		"Name":"Graf Nefaria",
 		"Klasse":"Forschung",
-		"Image":"000",
+		"Image":"307",
 		"Tags":[
 			"#Offensiv:Schub",
 			"#Schurke",
@@ -2217,7 +2217,7 @@
 	{
 		"Name":"Shathra",
 		"Klasse":"Mystisch",
-		"Image":"000",
+		"Image":"306",
 		"Tags":[
 			"#Offensiv:Schaden über gewissen Zeitraum",
 			"#Schurke",
