@@ -1,0 +1,27 @@
+[
+  {
+    "ID":"0",
+    "Name":"Blutrausch",
+    "Name_eng":"Bleed"
+  },
+  {
+    "ID":"1",
+    "Name":"Einäschern",
+    "Name_eng":"Incinerate"
+  },
+  {
+    "ID":"2",
+    "Name":"Gift",
+    "Name_eng":"Poison"
+  },
+  {
+    "ID":"3",
+    "Name":"Rüstungsbruch",
+    "Name_eng":"Armorbreak"
+  },
+  {
+    "ID":"4",
+    "Name":"Schock",
+    "Name_eng":"Shock"
+  }
+]
