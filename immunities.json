@@ -11,17 +11,47 @@
   },
   {
     "ID":"2",
+    "Name":"Entkräftung",
+    "Name_eng":""
+  },
+  {
+    "ID":"3",
+    "Name":"Erschöpfung",
+    "Name_eng":""
+  },
+  {
+    "ID":"4",
+    "Name":"Frostbeulen",
+    "Name_eng":""
+  },
+  {
+    "ID":"5",
+    "Name":"Gehirnerschütterung",
+    "Name_eng":"Concussion"
+  },
+  {
+    "ID":"6",
     "Name":"Gift",
     "Name_eng":"Poison"
   },
   {
-    "ID":"3",
+    "ID":"7",
+    "Name":"Kälteeinbruch",
+    "Name_eng":""
+  },
+  {
+    "ID":"8",
     "Name":"Rüstungsbruch",
     "Name_eng":"Armorbreak"
   },
   {
-    "ID":"4",
+    "ID":"9",
     "Name":"Schock",
     "Name_eng":"Shock"
+  },
+  {
+    "ID":"10",
+    "Name":"Zerschmetterte Rüstung",
+    "Name_eng":""
   }
 ]
