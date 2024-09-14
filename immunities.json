@@ -51,6 +51,21 @@
   },
   {
     "ID":"10",
+    "Name":"Stichelei",
+    "Name_eng":""
+  },
+  {
+    "ID":"11",
+    "Name":"Umgekehrte Steuerung",
+    "Name_eng":""
+  },
+  {
+    "ID":"12",
+    "Name":"Umkehreffekten",
+    "Name_eng":""
+  },
+  {
+    "ID":"13",
     "Name":"Zerschmetterte Rüstung",
     "Name_eng":""
   }
