@@ -406,7 +406,12 @@
 			"#Magischer Dieb",
 			"#2023"
 		],
-		"Skills": [],
+		"Skills": [
+			"Blutrausch",
+			"Reinigung",
+			"Anwurzeln",
+			"Abbremsen"
+		],
 		"Immunities": []
 	},
 	{
@@ -422,7 +427,12 @@
 			"#2016"
 			
 		],
-		"Skills": [],
+		"Skills": [
+			"Resistenz gegen Blutrausch",
+			"Freestyle-Kampfmodus",
+			"Akrobatischer Kampf",
+			"Lähmung"
+		],
 		"Immunities": []
 	},
 	{
