@@ -410,7 +410,10 @@
 			"Blutrausch",
 			"Reinigung",
 			"Anwurzeln",
-			"Abbremsen"
+			"Abbremsen",
+			"Desorientieren",
+			"Entzweien"
+			
 		],
 		"Immunities": []
 	},
@@ -449,7 +452,13 @@
 			"#2024",
 			"#Saga-Champions"
 		],
-		"Skills": [],
+		"Skills": [
+			"Intensivieren",
+			"Mumm",
+			"Schock",
+			"Wutausbruch",
+			"Energie tanken"
+		],
 		"Immunities": []
 	},
 	{
@@ -464,7 +473,12 @@
 			"#X-Magica",
 			"#2018"
 		],
-		"Skills": [],
+		"Skills": [
+			"Tapferkeit",
+			"Regeneration",
+			"Unabwehrbar",
+			"Einäschern"
+		],
 		"Immunities": []
 	},
 	{
@@ -480,7 +494,12 @@
 			"#Königliche Familie der Inhumans",
 			"#2014"
 		],
-		"Skills": [],
+		"Skills": [
+			"Immun gegen Vergiftung",
+			"Rüstungsbruch",
+			"Lähmung",
+			"Direktschaden"
+		],
 		"Immunities": []
 	},	
 	{
@@ -497,7 +516,12 @@
 			"#RAIDS:Avantgarde",
 			"#2014"
 		],
-		"Skills": [],
+		"Skills": [
+			"Blutrausch",
+			"Grausamkeit",
+			"Panthermacht",
+			"Präzision"
+		],
 		"Immunities": []
 	},
 	{
@@ -512,7 +536,14 @@
 			"#Magischer Dieb",
 			"#2016"
 		],
-		"Skills": [],
+		"Skills": [
+			"Rüstung",
+			"Reflektierende Rüstung",
+			"Gegenlähmung",
+			"Blutrausch",
+			"Lähmung"
+			
+		],
 		"Immunities": []
 	},
 	{
@@ -530,7 +561,12 @@
 			"#Avengers",
 			"#2015"
 		],
-		"Skills": [],
+		"Skills": [
+			"Ausweichen",
+			"Präzision",
+			"Grausamkeit",
+			"Lähmung"
+		],
 		"Immunities": []
 	},
 	{
@@ -545,7 +581,13 @@
 			"#X-Magica",
 			"#2019"
 		],
-		"Skills": [],
+		"Skills": [
+			"Kraftraub",
+			"Regeneration",
+			"Auslöschen",
+			"Todesstoß"
+			
+		],
 		"Immunities": []
 	},
 	{
@@ -567,7 +609,14 @@
 			"#2020",
 			"#Saga-Champions"
 		],
-		"Skills": [],
+		"Skills": [
+			"Schock",
+			"Einsicht der Witwe",
+			"Präzision",
+			"Ausweichen",
+			"Sabotage",
+			"Grausamkeit"
+		],
 		"Immunities": []
 	},
 	{
@@ -587,7 +636,11 @@
 			"#2017",
 			"#Saga-Angreifer"
 		],
-		"Skills": [],
+		"Skills": [
+			"Kraftzufuhr",
+			"Gefahrenspürsinn",
+			"Blutrausch"
+		],
 		"Immunities": []
 	},
 	{
@@ -605,7 +658,14 @@
 			"#2024",
 			"#Saga-Champions"
 		],
-		"Skills": [],
+		"Skills": [
+			"Grausamkeit",
+			"Blutrausch",
+			"Ausweichen",
+			"Wutausbruch",
+			"Echte Genauigkeit",
+			"Einschlag"
+		],
 		"Immunities": []
 	},
 	{
@@ -622,7 +682,12 @@
 			"#X-Force",
 			"#2017"
 		],
-		"Skills": [],
+		"Skills": [
+			"Regeneration",
+			"Einäschern",
+			"Gehirnerschütterung",
+			"Volltreffer"
+		],
 		"Immunities": []
 	},
 	{
@@ -638,7 +703,11 @@
 			"#S.H.I.E.L.D.",
 			"#2014"			
 		],
-		"Skills": [],
+		"Skills": [
+			"Perfekte Abwehr",
+			"Ermüdung",
+			"Lähmung"
+		],
 		"Immunities": []
 	},
 	{
@@ -654,7 +723,14 @@
 			"#Carinas Herausorderer",
 			"#2018"
 		],
-		"Skills": [],
+		"Skills": [
+			"Kinetisches Potential",
+			"Wutausbruch",
+			"Physische Resistenz",
+			"Energieresistenz",
+			"Blutrausch",
+			"Lähmung"
+		],
 		"Immunities": []
 	},
 	{
@@ -935,7 +1011,15 @@
 			"#2024",
 			"#Saga-Champions"
 		],
-		"Skills": [],
+		"Skills": [
+			"Immun gegen Vergiftung",
+			"Schreckgespenst",
+			"Verdorren",
+			"Wutausbruch",
+			"Vitalität",
+			"Kraftauflösung",
+			"Degeneration"
+		],
 		"Immunities": []
 	},
 	{
@@ -1238,7 +1322,10 @@
 		"Klasse": "Mystisch",
 		"Image": "289",
 		"Tags": [""],
-		"Skills": [],
+		"Skills": [
+			"Degeneration",
+			"Gespenst"
+		],
 		"Immunities": []
 	},
 	{
@@ -1248,7 +1335,9 @@
 		"Tags": [
 			"Roboter"
 		],
-		"Skills": [],
+		"Skills": [
+			
+		],
 		"Immunities": [
 			"Blutrausch",
 			"Vergiftung"
@@ -1445,6 +1534,30 @@
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
+	},
+	{
+		"Name": "Jack O'Lantern",
+		"Klasse": "Technologie",
+		"Image": "000",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Schurke",
+			"#Physische Abschirmung",
+			"#Größe:M",
+			"#2024"
+		],
+		"Skills": [
+			"Plasma",
+			"Entflammt",
+			"Einäschern",
+			"Vergiftung",
+			"Einäscherungsimmunität",
+			"Umgekehrte Steuerung-Immunität"
+		],
+		"Immunities": [
+			"Einäschern",
+			"Umgekehrte Steuerung"
+		]
 	},
 	{
 		"Name": "Jessica Jones",
