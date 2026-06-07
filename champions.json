@@ -356,6 +356,9 @@
 		"Immunities": []
 	},
 	{
+		"Name":"Armin Zola"
+	},
+	{
 		"Name": "Attuma",
 		"Klasse": "Talent",
 		"Image": "246",
