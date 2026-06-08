@@ -683,6 +683,14 @@
 		"Immunities": []
 	},
 	{
+		"Name": "Blade Stellar",
+		"Klasse": "Talent",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
 		"Name": "Blue Marvel",
 		"Klasse": "Forschung",
 		"Image": "000",
@@ -997,6 +1005,14 @@
 		"Immunities": []
 	},
 	{
+		"Name": "Dark Phoenix",
+		"Klasse": "Kosmos",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
 		"Name": "Dazzler",
 		"Klasse": "Mutant",
 		"Image": "000",
@@ -1112,6 +1128,14 @@
 		"Name": "Die Unsichtbare",
 		"Klasse": "Forschung",
 		"Image": "153",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Doktor Bong",
+		"Klasse": "Talent",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1598,6 +1622,14 @@
 		"Immunities": []
 	},
 	{
+		"Name": "Imperiosa",
+		"Klasse": "Kosmos",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
 		"Name": "Iron Fist",
 		"Klasse": "Mystisch",
 		"Image": "075",
@@ -1906,6 +1938,14 @@
 		"Name": "M.O.D.O.K.",
 		"Klasse": "Forschung",
 		"Image": "061",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Madelayne Pryor",
+		"Klasse": "Mystisch",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2263,6 +2303,22 @@
 		"Immunities": []
 	},
 	{
+		"Name": "Phyla-Vell",
+		"Klasse": "Kosmos",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Pixie",
+		"Klasse": "Mutant",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
 		"Name": "Platinpool",
 		"Klasse": "Mutant",
 		"Image": "192",
@@ -2421,6 +2477,13 @@
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
+	},{
+		"Name": "Ruby Thursday",
+		"Klasse": "Technologie",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
 	},
 	{
 		"Name": "Sabretooth",
@@ -2542,11 +2605,25 @@
 			"Regeneration"
 		],
 		"Immunities":[]
+	},{
+		"Name": "Shatterstar",
+		"Klasse": "Mutant",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
 	},
 	{
 		"Name": "She-Hulk",
 		"Klasse": "Forschung",
 		"Image": "139",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},{
+		"Name": "She-Hulk (Todlos)",
+		"Klasse": "Forschung",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2611,6 +2688,13 @@
 		"Name": "Skorpion",
 		"Klasse": "Forschung",
 		"Image": "231",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},{
+		"Name": "Solvarch",
+		"Klasse": "Technologie",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2851,6 +2935,13 @@
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
+	},{
+		"Name": "Thanos (Todlos)",
+		"Klasse": "Kosmos",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
 	},
 	{
 		"Name": "The Hood",
@@ -3050,6 +3141,14 @@
 		"Name": "Wasp",
 		"Klasse": "Forschung",
 		"Image": "070",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Wave",
+		"Klasse": "Forschung",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
