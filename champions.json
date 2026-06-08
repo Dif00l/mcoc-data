@@ -522,14 +522,25 @@
 			"Direktschaden"
 		],
 		"Immunities": []
-	},{
+	},
+	{
 		"Name": "Black Cat",
+		"Name_de":"Schwarze Katze"
 		"Klasse": "Talent",
-		"Image": "000",
-		"Tags": [],
+		"Image": "230",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Held",
+			"#Größe:S",
+			"#EQ:Romantik",
+			"#Klarheit",
+			"#RAIDS:Avantgarde",
+			"#2022",
+			"#Saga-Angreifer"
+		],
 		"Skills": [],
 		"Immunities": []
-	}	
+	},	
 	{
 		"Name": "Black Panther",
 		"Klasse": "Talent",
@@ -669,6 +680,14 @@
 			"Gefahrenspürsinn",
 			"Blutrausch"
 		],
+		"Immunities": []
+	},
+	{
+		"Name": "Blue Marvel",
+		"Klasse": "Forschung",
+		"Image": "000",
+		"Tags": [],
+		"Skills": [],
 		"Immunities": []
 	},
 	{
@@ -1473,12 +1492,28 @@
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
+	},	
+	{
+		"Name": "Henchpool",
+		"Klasse": "Variabl",
+		"Image": "000",
+		"Tags": [],
+		"Skills": [],
+		"Immunities": []
 	},
 	{
 		"Name": "Herkules",
 		"Klasse": "Kosmos",
 		"Image": "219",
 		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},	
+	{
+		"Name": "High Evolutionary",
+		"Klasse": "Forschung",
+		"Image": "000",
+		"Tags": [],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -1617,6 +1652,14 @@
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
+	},	
+	{
+		"Name": "Isophyne",
+		"Klasse": "Mystisch",
+		"Image": "000",
+		"Tags": [],
+		"Skills": [],
+		"Immunities": []
 	},
 	{
 		"Name": "Jabari Panther",
@@ -1649,6 +1692,14 @@
 			"Einäschern",
 			"Umgekehrte Steuerung"
 		]
+	},	
+	{
+		"Name": "Jean Grey",
+		"Klasse": "Variabl",
+		"Image": "000",
+		"Tags": [],
+		"Skills": [],
+		"Immunities": []
 	},
 	{
 		"Name": "Jessica Jones",
@@ -1695,6 +1746,14 @@
 		"Klasse": "Talent",
 		"Image": "022",
 		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},	
+	{
+		"Name": "Karolina Dean",
+		"Klasse": "Kosmos",
+		"Image": "000",
+		"Tags": [],
 		"Skills": [],
 		"Immunities": []
 	},
@@ -1834,19 +1893,19 @@
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
+	},	
+	{
+		"Name": "Lumatrix",
+		"Klasse": "Talent",
+		"Image": "000",
+		"Tags": [],
+		"Skills": [],
+		"Immunities": []
 	},
 	{
 		"Name": "M.O.D.O.K.",
 		"Klasse": "Forschung",
 		"Image": "061",
-		"Tags": [""],
-		"Skills": [],
-		"Immunities": []
-	},
-	{
-		"Name": "Maestro",
-		"Klasse": "Kosmos",
-		"Image": "288",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1871,6 +1930,14 @@
 		"Name": "Magneto (House of X)",
 		"Klasse": "Mutant",
 		"Image": "042",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Maestro",
+		"Klasse": "Kosmos",
+		"Image": "288",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1908,17 +1975,17 @@
 		"Immunities": []
 	},
 	{
-		"Name": "Medusa",
-		"Klasse": "Kosmos",
-		"Image": "098",
+		"Name": "M'Baku",
+		"Klasse": "Talent",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
 	},
 	{
-		"Name": "Megasonic Teenage Warhead",
-		"Klasse": "Mutant",
-		"Image": "294",
+		"Name": "Medusa",
+		"Klasse": "Kosmos",
+		"Image": "098",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2012,6 +2079,14 @@
 		"Immunities": []
 	},
 	{
+		"Name": "Mr. Knight",
+		"Klasse": "Talent",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
 		"Name": "Ms. Marvel",
 		"Klasse": "Kosmos",
 		"Image": "099",
@@ -2052,9 +2127,25 @@
 		"Immunities": []
 	},
 	{
+		"Name": "Negasonic Teenage Warhead",
+		"Klasse": "Mutant",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
 		"Name": "Nick Fury",
 		"Klasse": "Talent",
 		"Image": "111",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Nico Minoru",
+		"Klasse": "Mystisch",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2103,6 +2194,14 @@
 		"Name": "Odin",
 		"Klasse": "Kosmos",
 		"Image": "199",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Okoye",
+		"Klasse": "Talent",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2372,23 +2471,6 @@
 		"Immunities": []
 	},
 	{
-		"Name": "Schwarze Katze",
-		"Klasse": "Talent",
-		"Image": "230",
-		"Tags": [
-			"#Offensiv:Schub",
-			"#Held",
-			"#Größe:S",
-			"#EQ:Romantik",
-			"#Klarheit",
-			"#RAIDS:Avantgarde",
-			"#2022",
-			"#Saga-Angreifer"
-		],
-		"Skills": [],
-		"Immunities": []
-	},
-	{
 		"Name": "Sentinel",
 		"Klasse": "Technologie",
 		"Image": "134",
@@ -2396,6 +2478,14 @@
 		"Skills": [],
 		"Immunities": []
 	},
+	{
+		"Name": "Sentinelbot",
+		"Klasse": "Variabl",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},		
 	{
 		"Name": "Sentry",
 		"Klasse": "Forschung",
@@ -2502,6 +2592,14 @@
 		"Immunities": []
 	},
 	{
+		"Name": "Silver Samurai",
+		"Klasse": "Mutant",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
 		"Name": "Silver Surfer",
 		"Klasse": "Kosmos",
 		"Image": "170",
@@ -2519,8 +2617,9 @@
 	},
 	{
 		"Name": "Sorcerer Supreme",
+		"Name_de":"Oberste Zauber",
 		"Klasse": "Mystisch",
-		"Image": "178",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2551,6 +2650,14 @@
 	},
 	{
 		"Name": "Spider-Man (Miles Morales)",
+		"Klasse": "Forschung",
+		"Image": "068",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Man (Pavatir Prabhakar)",
 		"Klasse": "Forschung",
 		"Image": "068",
 		"Tags": [""],
@@ -2601,6 +2708,30 @@
 		"Name": "Spider-Punk",
 		"Klasse": "Forschung",
 		"Image": "299",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Slayer (J. Jonah Jameson)",
+		"Klasse": "Technologie",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},	
+	{
+		"Name": "Spider-Woman (Jessica Drew)",
+		"Klasse": "Forschung",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spirale",
+		"Klasse": "Mystisch",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2680,6 +2811,14 @@
 		"Immunities": []
 	},
 	{
+		"Name": "Symbiod",
+		"Klasse": "Variabl",
+		"Image": "000",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
 		"Name": "Symbiont Supreme",
 		"Klasse": "Mystisch",
 		"Image": "081",
@@ -2717,6 +2856,14 @@
 		"Name": "The Hood",
 		"Klasse": "Mystisch",
 		"Image": "082",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "The Maker",
+		"Klasse": "Technologie",
+		"Image": "068",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2967,6 +3114,13 @@
 		"Name": "Wong",
 		"Klasse": "Mystisch",
 		"Image": "234",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},	{
+		"Name": "Yelena Belova",
+		"Klasse": "Talent",
+		"Image": "000",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
