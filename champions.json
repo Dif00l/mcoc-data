@@ -3,24 +3,9 @@
 		"Name": "Abomination",
 		"Klasse": "Forschung",
 		"Image": "051",
-		"Tags": [
-			"#Defensiv:Panzer",
-			"#Schurke",
-			"#Gamma",
-			"#Größe XL",
-			"#Chronos Corps",
-			"#Blitzschläge",
-			"#AW:Trotz",
-			"#2014"
-		],
-		"Skills": [
-			"Vergiftung",
-			"Wutausbruch",
-			"Immun gegen Vergiftung"
-		],
-		"Immunities": [
-				"Gift"
-		]
+		"Tags": ["#Defensiv:Panzer","#Schurke","#Gamma","#Größe XL","#Chronos Corps","#Blitzschläge","#AW:Trotz","#2014"],
+		"Skills": ["Vergiftung","Wutausbruch","Immun gegen Vergiftung"],
+		"Immunities": ["Gift"]
 	},
 	{
 		"Name": "Abomination (Unsterblich)",
