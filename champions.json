@@ -11,183 +11,64 @@
 		"Name": "Abomination (Unsterblich)",
 		"Klasse": "Forschung",
 		"Image": "196",
-		"Tags": [
-				"#Offensiv:Schaden über einen gewissen Zeitraum",
-				"#Defensiv:Panzer",
-				"#Schurke",
-				"#Gamma",
-				"#Größe:XL",
-				"#AW:Trotz",
-				"#Carinas Herausforderer",
-				"#RAIDS:Avantgarde",
-				"#2020"
-		],
-		"Skills": [
-			"S\u00E4ureverbrennung",
-			"Erschöpfung",
-			"Versteinern",
-			"Vergiftung"
-		],
+		"Tags": ["#Offensiv:Schaden über einen gewissen Zeitraum","#Defensiv:Panzer","#Schurke","#Gamma","#Größe:XL","#AW:Trotz","#Carinas Herausforderer","#RAIDS:Avantgarde","#2020"],
+		"Skills": ["S\u00E4ureverbrennung","Erschöpfung","Versteinern","Vergiftung"],
 		"Immunities": []
 	},
 	{
 		"Name": "Absorbing Man",
 		"Klasse": "Mystisch",
 		"Image": "254",
-		"Tags": [
-			"#Defensiv:Panzer",
-			"#Offensiv:Schub",
-			"#Schurke",
-			"#Gamma",
-			"#Größe:L",
-			"#Söldner",
-			"#EQ:Romantik",
-			"#Culs Würdigkeit",
-			"#RAIDS:Avantgarde",
-			"#2023"
-		],
-		"Skills": [
-			"Reduzierung der Buff-Dauer",
-			"Verwundbarkeit",
-			"Schwarze Uru-Form",
-			"Magna-Form"
-		],
+		"Tags": ["#Defensiv:Panzer","#Offensiv:Schub","#Schurke","#Gamma","#Größe:L","#Söldner","#EQ:Romantik","#Culs Würdigkeit","#RAIDS:Avantgarde","#2023"],
+		"Skills": ["Reduzierung der Buff-Dauer","Verwundbarkeit","Schwarze Uru-Form","Magna-Form"],
 		"Immunities": []
 	},
 	{
 		"Name": "Adam Warlock",
 		"Klasse": "Kosmos",
 		"Image": "271",
-		"Tags": [
-			"#Offensiv:grober Schaden",
-			"#Defensiv:Nutzen",
-			"#Held",
-			"#Fliegend",
-			"#Ansteigende Kraft",
-			"#Größe:M",
-			"#Magischer Dieb",
-			"#Klarheit",
-			"#2023",
-			"#Saga-Champions"
-		],
-		"Skills": [
-			"Unabwehrbar",
-			"Totalschaden",
-			"Präzision",
-			"Wutausbruch"
-		],
-		"Immunities": []
+		"Tags": ["#Offensiv:grober Schaden","#Defensiv:Nutzen","#Held","#Fliegend","#Ansteigende Kraft","#Größe:M","#Magischer Dieb","#Klarheit","#2023","#Saga-Champions"],
+		"Skills": ["Unabwehrbar","Totalschaden","Präzision","Wutausbruch"],
+		"Immunities": ["None"]
 	},
 	{
 		"Name": "Aegon",
 		"Klasse": "Talent",
 		"Image": "130",
-		"Tags": [
-			"#Offensiv: grober Schaden",
-			"#Held",
-			"#Größe: M",
-			"#Klarheit",
-			"#RAIDS:Angriff",
-			"#2018",
-			"#Saga-Champions"
-		],
-		"Skills": [
-			"Beharrlichkeit",
-			"Combo-Schild",
-			"Wutausbruch",
-			"Blutrausch"
-		],
+		"Tags": ["#Offensiv: grober Schaden","#Held","#Größe: M","#Klarheit","#RAIDS:Angriff","#2018","#Saga-Champions"],
+		"Skills": ["Beharrlichkeit","Combo-Schild","Wutausbruch","Blutrausch"],
 		"Immunities": []
 	},
 	{
 		"Name": "Agent Venom",
 		"Klasse": "Talent",
 		"Image": "014",
-		"Tags": [
-			"#Offensiv:Schaden über gewissen Zeitraum",
-			"#Held",
-			"#Größe:M",
-			"#EQ:Romantik",
-			"#Guardian of the Galaxy",
-			"#Blitzschläge",
-			"#Symbiont",
-			"#AW:Trotz",
-			"#Magischer Dieb",
-			"#2018"
-		],
-		"Skills": [
-			"Beharrlichkeit",
-			"Symbiontenschlau",
-			"Blutrausch",
-			"Einäschern"
-		],
+		"Tags": ["#Offensiv:Schaden über gewissen Zeitraum","#Held","#Größe:M","#EQ:Romantik","#Guardian of the Galaxy","#Blitzschläge","#Symbiont","#AW:Trotz","#Magischer Dieb","#2018"],
+		"Skills": ["Beharrlichkeit","Symbiontenschlau","Blutrausch","Einäschern"],
 		"Immunities": []
 	},
 	{
 		"Name": "Air-Walker",
 		"Klasse": "Kosmos",
 		"Image": "186",
-		"Tags": [
-			"#Kontrolle:Konter",
-			"#Schurke",
-			"#Fliegend",
-			"#Größe:L",
-			"#Metall",
-			"#2020"
-		],
-		"Skills": [
-			"Kosmische Kräfte",
-			"Der Dunkle Strom",
-			"Rüstungsbruch",
-			"Die Kraft des Galactus"
-		],
+		"Tags": ["#Kontrolle:Konter","#Schurke","#Fliegend","#Größe:L","#Metall","#2020"],
+		"Skills": ["Kosmische Kräfte","Der Dunkle Strom","Rüstungsbruch","Die Kraft des Galactus"],
 		"Immunities": []
 	},
 	{
 		"Name": "America Chavez",
 		"Klasse": "Mystisch",
 		"Image": "223",
-		"Tags": [
-			"#Offensiv:Schub",
-			"#Held",
-			"#Größe:M",
-			"#Dimensionswesen",
-			"#Blitzschläge",
-			"#Young Avengers",
-			"#AW:Plattmachen",
-			"#2021"
-		],
-		"Skills": [
-			"Utopische Parallele",
-			"Dunkle Dimension",
-			"Negativzone",
-			"Dimensionsenergieinfusion"
-		],
+		"Tags": ["#Offensiv:Schub","#Held","#Größe:M","#Dimensionswesen","#Blitzschläge","#Young Avengers","#AW:Plattmachen","#2021"],
+		"Skills": ["Utopische Parallele","Dunkle Dimension","Negativzone","Dimensionsenergieinfusion"],
 		"Immunities": []
 	},
 	{
 		"Name": "Angela",
 		"Klasse": "Kosmos",
 		"Image": "085",
-		"Tags": [
-			"#Offensiv: grober Schaden",
-			"#Held",
-			"#Metall",
-			"#Größe:S",
-			"#Gott",
-			"#EQ:Romantik",
-			"#AW:Verfall",
-			"#Klarheit",
-			"#RAIDS:Taktiker",
-			"#2017",
-			"#Saga-Champions"
-		],
-		"Skills": [
-			"Präzision",
-			"Rüstungsbruch",
-			"Wutausbruch",
-			"Rüstung"
-		],
+		"Tags": ["#Offensiv: grober Schaden","#Held","#Metall","#Größe:S","#Gott","#EQ:Romantik","#AW:Verfall","#Klarheit","#RAIDS:Taktiker","#2017","#Saga-Champions"],
+		"Skills": ["Präzision","Rüstungsbruch","Wutausbruch","Rüstung"],
 		"Immunities": []
 	},
 	{
