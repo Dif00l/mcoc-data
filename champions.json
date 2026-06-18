@@ -3,6 +3,7 @@
 		"Name": "Abomination",
 		"Klasse": "Forschung",
 		"Image": "051",
+		"PrestigeBasis":"5774",
 		"Tags": ["#Defensiv:Panzer","#Schurke","#Gamma","#Größe XL","#Chronos Corps","#Blitzschläge","#AW:Trotz","#2014"],
 		"Skills": ["Vergiftung","Wutausbruch","Immun gegen Vergiftung"],
 		"Immunities": ["Gift"]
@@ -11,6 +12,7 @@
 		"Name": "Abomination (Unsterblich)",
 		"Klasse": "Forschung",
 		"Image": "196",
+		"PrestigeBasis":"13060",
 		"Tags": ["#Offensiv:Schaden über einen gewissen Zeitraum","#Defensiv:Panzer","#Schurke","#Gamma","#Größe:XL","#AW:Trotz","#Carinas Herausforderer","#RAIDS:Avantgarde","#2020"],
 		"Skills": ["S\u00E4ureverbrennung","Erschöpfung","Versteinern","Vergiftung"],
 		"Immunities": []
@@ -19,6 +21,7 @@
 		"Name": "Absorbing Man",
 		"Klasse": "Mystisch",
 		"Image": "254",
+		"PrestigeBasis":"13000",
 		"Tags": ["#Defensiv:Panzer","#Offensiv:Schub","#Schurke","#Gamma","#Größe:L","#Söldner","#EQ:Romantik","#Culs Würdigkeit","#RAIDS:Avantgarde","#2023"],
 		"Skills": ["Reduzierung der Buff-Dauer","Verwundbarkeit","Schwarze Uru-Form","Magna-Form"],
 		"Immunities": []
@@ -27,6 +30,7 @@
 		"Name": "Adam Warlock",
 		"Klasse": "Kosmos",
 		"Image": "271",
+		"PrestigeBasis":"13170",
 		"Tags": ["#Offensiv:grober Schaden","#Defensiv:Nutzen","#Held","#Fliegend","#Ansteigende Kraft","#Größe:M","#Magischer Dieb","#Klarheit","#2023","#Saga-Champions"],
 		"Skills": ["Unabwehrbar","Totalschaden","Präzision","Wutausbruch"],
 		"Immunities": ["None"]
@@ -35,6 +39,7 @@
 		"Name": "Aegon",
 		"Klasse": "Talent",
 		"Image": "130",
+		"PrestigeBasis":"6043",
 		"Tags": ["#Offensiv: grober Schaden","#Held","#Größe: M","#Klarheit","#RAIDS:Angriff","#2018","#Saga-Champions"],
 		"Skills": ["Beharrlichkeit","Combo-Schild","Wutausbruch","Blutrausch"],
 		"Immunities": []
@@ -43,6 +48,7 @@
 		"Name": "Agent Venom",
 		"Klasse": "Talent",
 		"Image": "014",
+		"PrestigeBasis":"5959",
 		"Tags": ["#Offensiv:Schaden über gewissen Zeitraum","#Held","#Größe:M","#EQ:Romantik","#Guardian of the Galaxy","#Blitzschläge","#Symbiont","#AW:Trotz","#Magischer Dieb","#2018"],
 		"Skills": ["Beharrlichkeit","Symbiontenschlau","Blutrausch","Einäschern"],
 		"Immunities": []
@@ -51,6 +57,7 @@
 		"Name": "Air-Walker",
 		"Klasse": "Kosmos",
 		"Image": "186",
+		"PrestigeBasis":"6114",
 		"Tags": ["#Kontrolle:Konter","#Schurke","#Fliegend","#Größe:L","#Metall","#2020"],
 		"Skills": ["Kosmische Kräfte","Der Dunkle Strom","Rüstungsbruch","Die Kraft des Galactus"],
 		"Immunities": []
@@ -59,6 +66,7 @@
 		"Name": "America Chavez",
 		"Klasse": "Mystisch",
 		"Image": "223",
+		"PrestigeBasis":"12810",
 		"Tags": ["#Offensiv:Schub","#Held","#Größe:M","#Dimensionswesen","#Blitzschläge","#Young Avengers","#AW:Plattmachen","#2021"],
 		"Skills": ["Utopische Parallele","Dunkle Dimension","Negativzone","Dimensionsenergieinfusion"],
 		"Immunities": []
@@ -67,6 +75,7 @@
 		"Name": "Angela",
 		"Klasse": "Kosmos",
 		"Image": "085",
+		"PrestigeBasis":"12620",
 		"Tags": ["#Offensiv: grober Schaden","#Held","#Metall","#Größe:S","#Gott","#EQ:Romantik","#AW:Verfall","#Klarheit","#RAIDS:Taktiker","#2017","#Saga-Champions"],
 		"Skills": ["Präzision","Rüstungsbruch","Wutausbruch","Rüstung"],
 		"Immunities": []
@@ -75,52 +84,16 @@
 		"Name": "Annihilus",
 		"Klasse": "Kosmos",
 		"Image": "140",
-		"Tags": [
-			"#Offensiv:Schub",
-			"#Schurke",
-			"#Größe:M",
-			"#Metall",
-			"#2019"
-		],
-		"Skills": [
-			"Kosmischer Steuerstab",
-			"Rüstungsbruch",
-			"Abwürgen",
-			"Unaufhaltsam"
-		],
-		"Immunities": []
-	},
-	{
-		"Name": "Anti-Venom",
-		"Klasse": "Forschung",
-		"Image": "212",
-		"Tags": [
-			"#Offensiv: grober Schaden",
-			"#Größe:L",
-			"#Symbiont",
-			"#AW:Verfall",
-			"#2021"
-		],
-		"Skills": [
-			"Schreckgespenst",
-			"Desorientierung",
-			"Abbremsen",
-			"Wutausbruch"
-		],
-		"Immunities": []
-	},
-	{
-		"Name": "Anti-Venomoid",
-		"Klasse": "Variabl",
-		"Image": "000",
-		"Tags": [],
-		"Skills": [],
+		"PrestigeBasis":"6077",
+		"Tags": ["#Offensiv:Schub","#Schurke","#Größe:M","#Metall","#2019"],
+		"Skills": ["Kosmischer Steuerstab","Rüstungsbruch","Abwürgen","Unaufhaltsam"],
 		"Immunities": []
 	},
 	{
 		"Name": "Ant-Man",
 		"Klasse": "Forschung",
 		"Image": "052",
+		"PrestigeBasis":"13020",
 		"Tags": [
 			"#Defensiv:Panzer",
 			"#Held",
@@ -142,6 +115,7 @@
 		"Name": "Ant-Man (Zukunft)",
 		"Klasse": "Technologie",
 		"Image": "265",
+		"PrestigeBasis":"12490",
 		"Tags": [
 			"#Defensiv:Panzer",
 			"#Kontrolle:Verweigerung",
@@ -164,9 +138,39 @@
 		"Immunities": []
 	},
 	{
+		"Name": "Anti-Venom",
+		"Klasse": "Forschung",
+		"Image": "212",
+		"PrestigeBasis":"13020",
+		"Tags": [
+			"#Offensiv: grober Schaden",
+			"#Größe:L",
+			"#Symbiont",
+			"#AW:Verfall",
+			"#2021"
+		],
+		"Skills": [
+			"Schreckgespenst",
+			"Desorientierung",
+			"Abbremsen",
+			"Wutausbruch"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Anti-Venomoid",
+		"Klasse": "Variabl",
+		"Image": "000",
+		"PrestigeBasis":"265",
+		"Tags": [],
+		"Skills": [],
+		"Immunities": []
+	},	
+	{
 		"Name": "Apocalypse",
 		"Klasse": "Mutant",
 		"Image": "193",
+		"PrestigeBasis":"12840",
 		"Tags": [
 			"#Offensiv: Schaden über gewissen Zeitraum",
 			"#Defensiv:Panzer",
@@ -187,6 +191,7 @@
 		"Name": "Arcade",
 		"Klasse": "Technologie",
 		"Image": "290",
+		"PrestigeBasis":"11630",
 		"Tags": [
 			"#Offensiv:Schaden über einen gewissen Zeitraum",
 			"#Defensiv:Schutz",
@@ -211,6 +216,7 @@
 		"Name": "Archangel",
 		"Klasse": "Mutant",
 		"Image": "032",
+		"PrestigeBasis":"12560",
 		"Tags": [
 			"#Offensiv:Schaden über gewissen Zeitraum",
 			"#Held",
@@ -232,6 +238,7 @@
 		"Name": "Armin Zola",
 		"Klasse": "Technologie",
 		"Image": "000",
+		"PrestigeBasis":"12890",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -240,6 +247,7 @@
 		"Name": "Attuma",
 		"Klasse": "Talent",
 		"Image": "246",
+		"PrestigeBasis":"13100",
 		"Tags": [
 			"#Offensiv:grober Schaden",
 			"#Schurke",
@@ -261,6 +269,7 @@
 		"Name": "Auserw\u00E4hlter Symbioid",
 		"Klasse": "Spezial",
 		"Image": "000",
+		"PrestigeBasis":"0",
 		"Tags": [
 			"#Defensiv:Nutzen",
 			"#Größe:L",
@@ -277,6 +286,7 @@
 		"Name": "Baron Zemo",
 		"Klasse": "Talent",
 		"Image": "253",
+		"PrestigeBasis":"13250",
 		"Tags": [
 			"#Offensiv:Schaden über gewissen Zeitraum",
 			"#Kontrolle:Verweigerung",
@@ -301,6 +311,7 @@
 		"Name": "Bastion",
 		"Klasse": "Technologie",
 		"Image": "000",
+		"PrestigeBasis":"12910",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -308,6 +319,7 @@
 		"Name": "Beast",
 		"Klasse": "Mutant",
 		"Image": "001",
+		"PrestigeBasis":"",
 		"Tags": [
 			"#Offensiv grober Schaden",
 			"#Held",
@@ -329,6 +341,7 @@
 		"Name": "Beta Ray Bill",
 		"Klasse": "Kosmos",
 		"Image": "305",
+		"PrestigeBasis":"13120",
 		"Tags": [
 			"#Offensiv:Schub",
 			"#Held",
@@ -352,6 +365,7 @@
 		"Name": "Bishop",
 		"Klasse": "Mutant",
 		"Image": "002",
+		"PrestigeBasis":"12770",
 		"Tags": [
 			"#Offensiv:Schub",
 			"#Held",
@@ -372,6 +386,7 @@
 		"Name": "Black Bolt",
 		"Klasse": "Kosmos",
 		"Image": "086",
+		"PrestigeBasis":"5811",
 		"Tags": [
 			"#Offensiv:grober Schaden",
 			"#Held",
@@ -391,19 +406,11 @@
 	},
 	{
 		"Name": "Black Cat",
-		"Name_de":"Schwarze Katze"
+		"Name_de":"Schwarze Katze",
 		"Klasse": "Talent",
 		"Image": "230",
-		"Tags": [
-			"#Offensiv:Schub",
-			"#Held",
-			"#Größe:S",
-			"#EQ:Romantik",
-			"#Klarheit",
-			"#RAIDS:Avantgarde",
-			"#2022",
-			"#Saga-Angreifer"
-		],
+		"PrestigeBasis":"12810",
+		"Tags": ["#Offensiv:Schub","#Held","#Größe:S","#EQ:Romantik","#Klarheit","#RAIDS:Avantgarde","#2022","#Saga-Angreifer"],
 		"Skills": [],
 		"Immunities": []
 	},	
@@ -411,6 +418,7 @@
 		"Name": "Black Panther",
 		"Klasse": "Talent",
 		"Image": "013",
+		"PrestigeBasis":"13010",
 		"Tags": [
 			"#Offensiv: Schaden über gewissen Zeitraum",
 			"#Held",
@@ -433,6 +441,7 @@
 		"Name": "Black Panther (Civil War)",
 		"Klasse": "Talent",
 		"Image": "012",
+		"PrestigeBasis":"13170",
 		"Tags": [
 			"#Offensiv:Schutz",
 			"#Held",
@@ -455,6 +464,7 @@
 		"Name": "Black Widow",
 		"Klasse": "Talent",
 		"Image": "015",
+		"PrestigeBasis":"5881",
 		"Tags": [
 			"#Offensiv:Schub",
 			"#Söldner",
@@ -478,6 +488,7 @@
 		"Name": "Black Widow (Claire Voyant)",
 		"Klasse": "Mystisch",
 		"Image": "159",
+		"PrestigeBasis":"12890",
 		"Tags": [
 			"#Offensiv:Schub",
 			"#Kontrolle: Verweigerung",
@@ -499,6 +510,7 @@
 		"Name": "Black Widow (Deadly Origin)",
 		"Klasse": "Talent",
 		"Image": "180",
+		"PrestigeBasis":"12540",
 		"Tags": [
 			"#Offensiv:Schub",
 			"#Söldner",
@@ -528,6 +540,7 @@
 		"Name": "Blade",
 		"Klasse": "Talent",
 		"Image": "003",
+		"PrestigeBasis":"12640",
 		"Tags": [
 			"#Defensiv:Nutzen",
 			"#Held",
@@ -549,9 +562,10 @@
 		"Immunities": []
 	},
 	{
-		"Name": "Blade Stellar",
+		"Name": "Blade (Stellar-Forged)",
 		"Klasse": "Talent",
 		"Image": "000",
+		"PrestigeBasis":"12830",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -560,6 +574,7 @@
 		"Name": "Blue Marvel",
 		"Klasse": "Forschung",
 		"Image": "000",
+		"PrestigeBasis":"13270",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -568,6 +583,7 @@
 		"Name": "Bullseye",
 		"Klasse": "Talent",
 		"Image": "291",
+		"PrestigeBasis":"12130",
 		"Tags": [
 			"#Offensiv:Schub",
 			"#Schurke",
@@ -593,6 +609,7 @@
 		"Name": "Cable",
 		"Klasse": "Mutant",
 		"Image": "033",
+		"PrestigeBasis":"5981",
 		"Tags": [
 			"#Offensiv:Schub",
 			"#Held",
@@ -615,6 +632,7 @@
 		"Name": "Captain America",
 		"Klasse": "Forschung",
 		"Image": "053",
+		"PrestigeBasis":"5781",
 		"Tags": [
 			"#Defensiv:Schutz",
 			"#Held",
@@ -635,6 +653,7 @@
 		"Name": "Captain America (Infinity War)",
 		"Klasse": "Forschung",
 		"Image": "054",
+		"PrestigeBasis":"12780",
 		"Tags": [
 			"#Defensiv:Nutzen",
 			"#Held",
@@ -658,6 +677,7 @@
 		"Name": "Captain America (Sam Wilson)",
 		"Klasse": "Technologie",
 		"Image": "224",
+		"PrestigeBasis":"13060",
 		"Tags": [
 			"#Kontrolle:Verweigerung",
 			"#Held",
@@ -677,6 +697,7 @@
 		"Name": "Captain America (WWII)",
 		"Klasse": "Forschung",
 		"Image": "055",
+		"PrestigeBasis":"5852",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -685,6 +706,7 @@
 		"Name": "Captain Britain",
 		"Klasse": "Kosmos",
 		"Image": "228",
+		"PrestigeBasis":"12910",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -693,6 +715,7 @@
 		"Name": "Captain Marvel",
 		"Klasse": "Kosmos",
 		"Image": "087",
+		"PrestigeBasis":"12710",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -701,6 +724,7 @@
 		"Name": "Captain Marvel (Klassisch)",
 		"Klasse": "Kosmos",
 		"Image": "088",
+		"PrestigeBasis":"5758",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -709,6 +733,7 @@
 		"Name": "Carnage",
 		"Klasse": "Kosmos",
 		"Image": "089",
+		"PrestigeBasis":"12380",
 		"Tags": [
 			"#Offensiv:grober Schaden",
 			"#Schurke",
@@ -722,6 +747,7 @@
 		"Name": "Cassandra Nova",
 		"Klasse": "Mutant",
 		"Image": "000",
+		"PrestigeBasis":"13040",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -730,14 +756,17 @@
 		"Name": "Cassie Lang",
 		"Klasse": "Technologie",
 		"Image": "266",
+		"PrestigeBasis":"12710",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
 	},
 	{
 		"Name": "Champion des Universums",
+		"Name_eng":"The Champion"
 		"Klasse": "Kosmos",
 		"Image": "090",
+		"PrestigeBasis":"6043",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -746,6 +775,7 @@
 		"Name": "Chee`ilth",
 		"Klasse": "Talent",
 		"Image": "287",
+		"PrestigeBasis":"12890",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -754,6 +784,7 @@
 		"Name": "Civil Warrior",
 		"Klasse": "Technologie",
 		"Image": "113",
+		"PrestigeBasis":"12470",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -762,6 +793,7 @@
 		"Name": "Colossus",
 		"Klasse": "Mutant",
 		"Image": "004",
+		"PrestigeBasis":"12580",
 		"Tags": [
 			"#Defensiv:Schutz",
 			"#Held",
@@ -794,6 +826,7 @@
 		"Name": "Corvus Glaive",
 		"Klasse": "Kosmos",
 		"Image": "091",
+		"PrestigeBasis":"12790",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -802,6 +835,7 @@
 		"Name": "Crossbones",
 		"Klasse": "Talent",
 		"Image": "016",
+		"PrestigeBasis":"13040",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -810,6 +844,7 @@
 		"Name": "Cull Obisidian",
 		"Klasse": "Kosmos",
 		"Image": "141",
+		"PrestigeBasis":"12300",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -818,6 +853,7 @@
 		"Name": "Cyclops (Blaues Team)",
 		"Klasse": "Mutant",
 		"Image": "034",
+		"PrestigeBasis":"12700",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -826,6 +862,7 @@
 		"Name": "Cyclops (New Xacier School)",
 		"Klasse": "Mutant",
 		"Image": "035",
+		"PrestigeBasis":"5700",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -834,6 +871,8 @@
 		"Name": "Dani Morningstar",
 		"Klasse": "Mutant",
 		"Image": "280",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -842,6 +881,8 @@
 		"Name": "Daredevil (Hells Kitchen)",
 		"Klasse": "Talent",
 		"Image": "017",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -850,6 +891,8 @@
 		"Name": "Daredevil (Klassisch)",
 		"Klasse": "Talent",
 		"Image": "018",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -858,6 +901,8 @@
 		"Name": "Darkhawk",
 		"Klasse": "Technologie",
 		"Image": "142",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -866,6 +911,8 @@
 		"Name": "Das Ding",
 		"Klasse": "Forschung",
 		"Image": "109",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -874,6 +921,8 @@
 		"Name": "Dark Phoenix",
 		"Klasse": "Kosmos",
 		"Image": "000",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -882,6 +931,8 @@
 		"Name": "Dazzler",
 		"Klasse": "Mutant",
 		"Image": "000",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -890,6 +941,8 @@
 		"Name": "Deadpool",
 		"Klasse": "Mutant",
 		"Image": "131",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -898,6 +951,8 @@
 		"Name": "Deadpool (X-Force)",
 		"Klasse": "Mutant",
 		"Image": "036",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -906,6 +961,8 @@
 		"Name": "Der Alte Logan",
 		"Klasse": "Mutant",
 		"Image": "132",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -914,6 +971,8 @@
 		"Name": "Der Aufseher",
 		"Klasse": "Forschung",
 		"Image": "226",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -922,6 +981,8 @@
 		"Name": "Der Destroyer",
 		"Klasse": "Mystisch",
 		"Image": "297",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [
 			"#Defensiv:Panzer",
 			"#Psychische Abschirmung",
@@ -936,6 +997,8 @@
 		"Name": "Der Geier",
 		"Klasse": "Technologie",
 		"Image": "114",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -944,6 +1007,8 @@
 		"Name": "Der Leader",
 		"Klasse": "Forschung",
 		"Image": "308",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [
 			"#Offensiv:Schaden über gewissen Zeitraum",
 			"#Defensiv:Schutz",
@@ -970,6 +1035,8 @@
 		"Name": "Der Maulwurf",
 		"Klasse": "Talent",
 		"Image": "174",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -978,6 +1045,8 @@
 		"Name": "Diablo",
 		"Klasse": "Mystisch",
 		"Image": "112",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -986,6 +1055,8 @@
 		"Name": "Die Menschliche Fackel",
 		"Klasse": "Forschung",
 		"Image": "110",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -994,6 +1065,8 @@
 		"Name": "Die Unsichtbare",
 		"Klasse": "Forschung",
 		"Image": "153",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1002,6 +1075,8 @@
 		"Name": "Doktor Bong",
 		"Klasse": "Talent",
 		"Image": "000",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1010,6 +1085,8 @@
 		"Name": "Doktor Doom",
 		"Klasse": "Mystisch",
 		"Image": "164",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1018,6 +1095,8 @@
 		"Name": "Doktor Octopus",
 		"Klasse": "Technologie",
 		"Image": "115",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": [
@@ -1030,6 +1109,8 @@
 		"Name": "Doktor Strange",
 		"Klasse": "Mystisch",
 		"Image": "071",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1038,6 +1119,8 @@
 		"Name": "Doktor Voodoo",
 		"Klasse": "Mystisch",
 		"Image": "072",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1046,6 +1129,8 @@
 		"Name": "Domino",
 		"Klasse": "Mutant",
 		"Image": "037",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1054,6 +1139,8 @@
 		"Name": "Doombot",
 		"Klasse": "Variable",
 		"Image": "000",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1062,6 +1149,8 @@
 		"Name": "Dormammu",
 		"Klasse": "Mystisch",
 		"Image": "073",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1070,6 +1159,8 @@
 		"Name": "Dracula",
 		"Klasse": "Mystisch",
 		"Image": "000",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1078,6 +1169,8 @@
 		"Name": "Dragon Man",
 		"Klasse": "Mystisch",
 		"Image": "187",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1086,6 +1179,8 @@
 		"Name": "Drax",
 		"Klasse": "Kosmos",
 		"Image": "005",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1094,6 +1189,8 @@
 		"Name": "Dust",
 		"Klasse": "Mutant",
 		"Image": "302",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1102,6 +1199,8 @@
 		"Name": "Ebony Maw",
 		"Klasse": "Mystisch",
 		"Image": "143",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1110,6 +1209,8 @@
 		"Name": "Echse",
 		"Klasse": "Forschung",
 		"Image": "000",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1118,6 +1219,8 @@
 		"Name": "Electro",
 		"Klasse": "Forschung",
 		"Image": "056",
+		"PrestigeBasis":"",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1126,6 +1229,7 @@
 		"Name": "Elektra",
 		"Klasse": "Talent",
 		"Image": "019",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1134,6 +1238,7 @@
 		"Name": "Elsa Bloodstone",
 		"Klasse": "Talent",
 		"Image": "162",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1142,6 +1247,7 @@
 		"Name": "Emma Frost",
 		"Klasse": "Mutant",
 		"Image": "038",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1150,6 +1256,7 @@
 		"Name": "Enchantress",
 		"Klasse": "Mystisch",
 		"Image": "304",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1158,6 +1265,7 @@
 		"Name": "Falcon",
 		"Klasse": "Talent",
 		"Image": "006",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1166,6 +1274,7 @@
 		"Name": "Falcon (Joaquim Torres)",
 		"Klasse": "Forschung",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1174,6 +1283,7 @@
 		"Name": "Fegefeuer",
 		"Klasse": "Mystisch",
 		"Image": "207",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1182,6 +1292,7 @@
 		"Name": "Franken-Castle",
 		"Klasse": "Talent",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1190,6 +1301,7 @@
 		"Name": "Galan",
 		"Klasse": "Kosmos",
 		"Image": "242",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1198,6 +1310,7 @@
 		"Name": "Gambit",
 		"Klasse": "Mutant",
 		"Image": "039",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1206,6 +1319,7 @@
 		"Name": "Gamora",
 		"Klasse": "Kosmos",
 		"Image": "092",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1214,6 +1328,7 @@
 		"Name": "Gentle",
 		"Klasse": "Mutant",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1222,6 +1337,7 @@
 		"Name": "Ghost",
 		"Klasse": "Technologie",
 		"Image": "116",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1230,6 +1346,7 @@
 		"Name": "Ghost Rider",
 		"Klasse": "Mystisch",
 		"Image": "074",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1238,6 +1355,7 @@
 		"Name": "Gladiator",
 		"Klasse": "Kosmos",
 		"Image": "281",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1246,6 +1364,7 @@
 		"Name": "Goldpool",
 		"Klasse": "Mutant",
 		"Image": "144",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1254,6 +1373,7 @@
 		"Name": "Gorr",
 		"Klasse": "Kosmos",
 		"Image": "236",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1289,6 +1409,7 @@
 		"Name": "Green Goblin",
 		"Klasse": "Technologie",
 		"Image": "145",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1297,6 +1418,7 @@
 		"Name": "Groot",
 		"Klasse": "Kosmos",
 		"Image": "093",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1305,6 +1427,7 @@
 		"Name": "Guardian",
 		"Klasse": "Technologie",
 		"Image": "185",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1313,6 +1436,7 @@
 		"Name": "Guillotine",
 		"Klasse": "Mystisch",
 		"Image": "007",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1321,6 +1445,7 @@
 		"Name": "Guillotine (Deathless)",
 		"Klasse": "Mystisch",
 		"Image": "289",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [
 			"Degeneration",
@@ -1332,6 +1457,7 @@
 		"Name": "Guillotine 2099",
 		"Klasse": "Technologie",
 		"Image": "163",
+		"PrestigeBasis":"",
 		"Tags": [
 			"Roboter"
 		],
@@ -1347,6 +1473,7 @@
 		"Name": "Gwenpool",
 		"Klasse": "Talent",
 		"Image": "020",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1355,6 +1482,7 @@
 		"Name": "Havok",
 		"Klasse": "Mutant",
 		"Image": "125",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1363,6 +1491,7 @@
 		"Name": "Hawkeye",
 		"Klasse": "Talent",
 		"Image": "021",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1371,6 +1500,7 @@
 		"Name": "Heimdall",
 		"Klasse": "Kosmos",
 		"Image": "094",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1379,6 +1509,7 @@
 		"Name": "Hela",
 		"Klasse": "Kosmos",
 		"Image": "095",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1387,6 +1518,7 @@
 		"Name": "Henchpool",
 		"Klasse": "Variabl",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1395,6 +1527,7 @@
 		"Name": "Herkules",
 		"Klasse": "Kosmos",
 		"Image": "219",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1403,6 +1536,7 @@
 		"Name": "High Evolutionary",
 		"Klasse": "Forschung",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1411,6 +1545,7 @@
 		"Name": "Hit-Monkey",
 		"Klasse": "Talent",
 		"Image": "183",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1419,6 +1554,7 @@
 		"Name": "Howard die Ente",
 		"Klasse": "Technologie",
 		"Image": "117",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1427,6 +1563,7 @@
 		"Name": "Hulk",
 		"Klasse": "Forschung",
 		"Image": "057",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1435,6 +1572,7 @@
 		"Name": "Hulk (Ragnarök)",
 		"Klasse": "Forschung",
 		"Image": "058",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1443,6 +1581,7 @@
 		"Name": "Hulk (Unsterblich)",
 		"Klasse": "Forschung",
 		"Image": "194",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1451,6 +1590,7 @@
 		"Name": "Hulkbuster",
 		"Klasse": "Technologie",
 		"Image": "118",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1459,6 +1599,7 @@
 		"Name": "Hulkling",
 		"Klasse": "Kosmos",
 		"Image": "232",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1467,6 +1608,7 @@
 		"Name": "Hyperion",
 		"Klasse": "Kosmos",
 		"Image": "096",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1475,6 +1617,7 @@
 		"Name": "Iceman",
 		"Klasse": "Mutant",
 		"Image": "040",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1483,6 +1626,7 @@
 		"Name": "Ikaris",
 		"Klasse": "Kosmos",
 		"Image": "214",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1491,6 +1635,7 @@
 		"Name": "Imperiosa",
 		"Klasse": "Kosmos",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1499,6 +1644,7 @@
 		"Name": "Iron Fist",
 		"Klasse": "Mystisch",
 		"Image": "075",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1507,6 +1653,7 @@
 		"Name": "Iron Fist (Immortal)",
 		"Klasse": "Mystisch",
 		"Image": "217",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1515,6 +1662,7 @@
 		"Name": "Iron Man",
 		"Klasse": "Technologie",
 		"Image": "119",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1523,6 +1671,7 @@
 		"Name": "Iron Man (Infamous)",
 		"Klasse": "Technologie",
 		"Image": "245",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1531,6 +1680,7 @@
 		"Name": "Iron Man (Infinity War)",
 		"Klasse": "Technologie",
 		"Image": "120",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1539,6 +1689,7 @@
 		"Name": "Iron Patriot",
 		"Klasse": "Technologie",
 		"Image": "121",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1547,6 +1698,7 @@
 		"Name": "Ironheart",
 		"Klasse": "Technologie",
 		"Image": "296",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1555,6 +1707,7 @@
 		"Name": "Isophyne",
 		"Klasse": "Mystisch",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1563,6 +1716,7 @@
 		"Name": "Jabari Panther",
 		"Klasse": "Talent",
 		"Image": "203",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1571,6 +1725,7 @@
 		"Name": "Jack O'Lantern",
 		"Klasse": "Technologie",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [
 			"#Offensiv:Schub",
 			"#Schurke",
@@ -1595,6 +1750,7 @@
 		"Name": "Jean Grey",
 		"Klasse": "Variabl",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1603,6 +1759,7 @@
 		"Name": "Jessica Jones",
 		"Klasse": "Forschung",
 		"Image": "251",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1611,6 +1768,7 @@
 		"Name": "Joe Fixit",
 		"Klasse": "Forschung",
 		"Image": "059",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1619,6 +1777,7 @@
 		"Name": "Jubilee",
 		"Klasse": "Mutant",
 		"Image": "198",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1627,6 +1786,7 @@
 		"Name": "Juggernaut",
 		"Klasse": "Mystisch",
 		"Image": "076",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1635,6 +1795,7 @@
 		"Name": "Kang",
 		"Klasse": "Technologie",
 		"Image": "146",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1643,6 +1804,7 @@
 		"Name": "Karnak",
 		"Klasse": "Talent",
 		"Image": "022",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1651,6 +1813,7 @@
 		"Name": "Karolina Dean",
 		"Klasse": "Kosmos",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1659,6 +1822,7 @@
 		"Name": "Kate Bishop",
 		"Klasse": "Talent",
 		"Image": "268",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1667,6 +1831,7 @@
 		"Name": "Killmonger",
 		"Klasse": "Talent",
 		"Image": "023",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1675,6 +1840,7 @@
 		"Name": "Kindred",
 		"Klasse": "Mystisch",
 		"Image": "278",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": [
@@ -1689,6 +1855,7 @@
 		"Name": "Kingpin",
 		"Klasse": "Talent",
 		"Image": "024",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1697,6 +1864,7 @@
 		"Name": "Kitty Pryde",
 		"Klasse": "Mutant",
 		"Image": "211",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1705,6 +1873,7 @@
 		"Name": "Knull",
 		"Klasse": "Kosmos",
 		"Image": "213",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1713,6 +1882,7 @@
 		"Name": "könig Groot",
 		"Klasse": "Kosmos",
 		"Image": "097",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1721,6 +1891,7 @@
 		"Name": "könig Groot (Todlos)",
 		"Klasse": "Kosmos",
 		"Image": "295",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1729,6 +1900,7 @@
 		"Name": "Korg",
 		"Klasse": "Talent",
 		"Image": "025",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1737,6 +1909,7 @@
 		"Name": "Kosmischer Ghost Rider",
 		"Klasse": "Kosmos",
 		"Image": "190",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": [
@@ -1748,6 +1921,7 @@
 		"Name": "Kraven",
 		"Klasse": "Talent",
 		"Image": "222",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1756,6 +1930,7 @@
 		"Name": "Kushala",
 		"Klasse": "Mystisch",
 		"Image": "280",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1764,6 +1939,7 @@
 		"Name": "Lady Deathstrike",
 		"Klasse": "Technologie",
 		"Image": "279",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1772,6 +1948,7 @@
 		"Name": "Loki",
 		"Klasse": "Mystisch",
 		"Image": "077",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1780,6 +1957,7 @@
 		"Name": "Longshot",
 		"Klasse": "Mystisch",
 		"Image": "172",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1788,6 +1966,7 @@
 		"Name": "Luke Cage",
 		"Klasse": "Forschung",
 		"Image": "060",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1796,6 +1975,7 @@
 		"Name": "Lumatrix",
 		"Klasse": "Talent",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [],
 		"Skills": [],
 		"Immunities": []
@@ -1804,6 +1984,7 @@
 		"Name": "M.O.D.O.K.",
 		"Klasse": "Forschung",
 		"Image": "061",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1812,6 +1993,7 @@
 		"Name": "Madelayne Pryor",
 		"Klasse": "Mystisch",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1820,6 +2002,7 @@
 		"Name": "Magik",
 		"Klasse": "Mystisch",
 		"Image": "008",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1828,6 +2011,7 @@
 		"Name": "Magneto",
 		"Klasse": "Mutant",
 		"Image": "041",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1836,6 +2020,7 @@
 		"Name": "Magneto (House of X)",
 		"Klasse": "Mutant",
 		"Image": "042",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1844,6 +2029,7 @@
 		"Name": "Maestro",
 		"Klasse": "Kosmos",
 		"Image": "288",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1852,6 +2038,7 @@
 		"Name": "Mangog",
 		"Klasse": "Mystisch",
 		"Image": "197",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1860,6 +2047,7 @@
 		"Name": "Man-Thing",
 		"Klasse": "Mystisch",
 		"Image": "161",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1868,6 +2056,7 @@
 		"Name": "Mantis",
 		"Klasse": "Talent",
 		"Image": "252",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1876,6 +2065,7 @@
 		"Name": "Masacre",
 		"Klasse": "Talent",
 		"Image": "026",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1884,6 +2074,7 @@
 		"Name": "M'Baku",
 		"Klasse": "Talent",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1892,6 +2083,7 @@
 		"Name": "Medusa",
 		"Klasse": "Kosmos",
 		"Image": "098",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1900,6 +2092,7 @@
 		"Name": "Mephisto",
 		"Klasse": "Mystisch",
 		"Image": "147",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1908,6 +2101,7 @@
 		"Name": "Mister Fantastic",
 		"Klasse": "Forschung",
 		"Image": "165",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1916,6 +2110,7 @@
 		"Name": "Mister Negative",
 		"Klasse": "Forschung",
 		"Image": "206",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1924,6 +2119,7 @@
 		"Name": "Mister Sinister",
 		"Klasse": "Mutant",
 		"Image": "126",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1932,6 +2128,7 @@
 		"Name": "Misty Knight",
 		"Klasse": "Talent",
 		"Image": "225",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1940,6 +2137,7 @@
 		"Name": "Mojo",
 		"Klasse": "Mystisch",
 		"Image": "173",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1948,6 +2146,7 @@
 		"Name": "Moon Knight",
 		"Klasse": "Talent",
 		"Image": "027",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1956,6 +2155,7 @@
 		"Name": "Moondragon",
 		"Klasse": "Talent",
 		"Image": "272",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1964,6 +2164,7 @@
 		"Name": "Morbius",
 		"Klasse": "Forschung",
 		"Image": "282",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1972,6 +2173,7 @@
 		"Name": "Mordo",
 		"Klasse": "Mystisch",
 		"Image": "078",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1980,6 +2182,7 @@
 		"Name": "Morningstar",
 		"Klasse": "Mystisch",
 		"Image": "079",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1988,6 +2191,7 @@
 		"Name": "Mr. Knight",
 		"Klasse": "Talent",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -1996,6 +2200,7 @@
 		"Name": "Ms. Marvel",
 		"Klasse": "Kosmos",
 		"Image": "099",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2004,6 +2209,7 @@
 		"Name": "Ms. Marvel (Kamala Khan)",
 		"Klasse": "Kosmos",
 		"Image": "100",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2012,6 +2218,7 @@
 		"Name": "Mysterio",
 		"Klasse": "Technologie",
 		"Image": "158",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2020,6 +2227,7 @@
 		"Name": "Namor",
 		"Klasse": "Mutant",
 		"Image": "152",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2028,6 +2236,7 @@
 		"Name": "Nebula",
 		"Klasse": "Technologie",
 		"Image": "122",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2036,6 +2245,7 @@
 		"Name": "Negasonic Teenage Warhead",
 		"Klasse": "Mutant",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2044,6 +2254,7 @@
 		"Name": "Nick Fury",
 		"Klasse": "Talent",
 		"Image": "111",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2052,6 +2263,7 @@
 		"Name": "Nico Minoru",
 		"Klasse": "Mystisch",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2060,6 +2272,7 @@
 		"Name": "Night Thrasher",
 		"Klasse": "Talent",
 		"Image": "127",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2068,6 +2281,7 @@
 		"Name": "Nightcrawler",
 		"Klasse": "Mutant",
 		"Image": "043",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2076,6 +2290,7 @@
 		"Name": "Nimrod",
 		"Klasse": "Technologie",
 		"Image": "210",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2084,6 +2299,7 @@
 		"Name": "Northstar",
 		"Klasse": "Mutant",
 		"Image": "293",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2092,6 +2308,7 @@
 		"Name": "Nova",
 		"Klasse": "Kosmos",
 		"Image": "169",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2100,6 +2317,7 @@
 		"Name": "Odin",
 		"Klasse": "Kosmos",
 		"Image": "199",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2108,6 +2326,7 @@
 		"Name": "Okoye",
 		"Klasse": "Talent",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2116,6 +2335,7 @@
 		"Name": "Omega Red",
 		"Klasse": "Mutant",
 		"Image": "044",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2124,6 +2344,7 @@
 		"Name": "Omega Sentinel",
 		"Klasse": "Technologie",
 		"Image": "229",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2132,6 +2353,7 @@
 		"Name": "Onslaught",
 		"Klasse": "Mutant",
 		"Image": "303",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2140,6 +2362,7 @@
 		"Name": "Patriot",
 		"Klasse": "Talent",
 		"Image": "309",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2148,6 +2371,7 @@
 		"Name": "Peni Parker",
 		"Klasse": "Technologie",
 		"Image": "208",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2156,6 +2380,7 @@
 		"Name": "Phoenix",
 		"Klasse": "Kosmos",
 		"Image": "101",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2164,6 +2389,7 @@
 		"Name": "Photon",
 		"Klasse": "Forschung",
 		"Image": "283",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2172,6 +2398,7 @@
 		"Name": "Phyla-Vell",
 		"Klasse": "Kosmos",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2180,6 +2407,7 @@
 		"Name": "Pixie",
 		"Klasse": "Mutant",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2188,6 +2416,7 @@
 		"Name": "Platinpool",
 		"Klasse": "Mutant",
 		"Image": "192",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2196,6 +2425,7 @@
 		"Name": "Professor X",
 		"Klasse": "Mutant",
 		"Image": "191",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2204,6 +2434,7 @@
 		"Name": "Prowler",
 		"Klasse": "Technologie",
 		"Image": "292",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2212,6 +2443,7 @@
 		"Name": "Proxima Midnight",
 		"Klasse": "Kosmos",
 		"Image": "102",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2220,6 +2452,7 @@
 		"Name": "Psycho-Man",
 		"Klasse": "Technologie",
 		"Image": "202",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2228,6 +2461,7 @@
 		"Name": "Psylocke",
 		"Klasse": "Mutant",
 		"Image": "045",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2236,6 +2470,7 @@
 		"Name": "Punisher",
 		"Klasse": "Talent",
 		"Image": "028",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2244,6 +2479,7 @@
 		"Name": "Punisher 2099",
 		"Klasse": "Technologie",
 		"Image": "123",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2252,6 +2488,7 @@
 		"Name": "Quake",
 		"Klasse": "Forschung",
 		"Image": "062",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2260,6 +2497,7 @@
 		"Name": "Quicksilver",
 		"Klasse": "Forschung",
 		"Image": "243",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2268,6 +2506,7 @@
 		"Name": "Red Goblin",
 		"Klasse": "Kosmos",
 		"Image": "188",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2276,6 +2515,7 @@
 		"Name": "Red Guardian",
 		"Klasse": "Forschung",
 		"Image": "179",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2284,6 +2524,7 @@
 		"Name": "Red Skull",
 		"Klasse": "Technologie",
 		"Image": "133",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2292,6 +2533,7 @@
 		"Name": "Rhino",
 		"Klasse": "Forschung",
 		"Image": "063",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2300,6 +2542,7 @@
 		"Name": "Rintrah",
 		"Klasse": "Mystisch",
 		"Image": "235",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2308,6 +2551,7 @@
 		"Name": "Rocket Racoon",
 		"Klasse": "Technologie",
 		"Image": "124",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2316,6 +2560,7 @@
 		"Name": "Rogue",
 		"Klasse": "Mutant",
 		"Image": "046",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2324,6 +2569,7 @@
 		"Name": "Ronan",
 		"Klasse": "Kosmos",
 		"Image": "103",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2332,6 +2578,7 @@
 		"Name": "Ronin",
 		"Klasse": "Talent",
 		"Image": "148",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2340,6 +2587,7 @@
 		"Name": "Roter Hulk",
 		"Klasse": "Forschung",
 		"Image": "064",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2347,6 +2595,7 @@
 		"Name": "Ruby Thursday",
 		"Klasse": "Technologie",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2355,6 +2604,7 @@
 		"Name": "Sabretooth",
 		"Klasse": "Mutant",
 		"Image": "047",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2363,6 +2613,7 @@
 		"Name": "Sandman",
 		"Klasse": "Forschung",
 		"Image": "269",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2371,6 +2622,7 @@
 		"Name": "Sasquatch",
 		"Klasse": "Mystisch",
 		"Image": "184",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2379,6 +2631,7 @@
 		"Name": "Sauron",
 		"Klasse": "Mutant",
 		"Image": "221",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2387,6 +2640,7 @@
 		"Name": "Scarlet Witch",
 		"Klasse": "Mystisch",
 		"Image": "218",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2395,6 +2649,7 @@
 		"Name": "Scarlet Witch (Klassisch)",
 		"Klasse": "Mystisch",
 		"Image": "080",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2403,6 +2658,7 @@
 		"Name": "Sentinel",
 		"Klasse": "Technologie",
 		"Image": "134",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2411,6 +2667,7 @@
 		"Name": "Sentinelbot",
 		"Klasse": "Variabl",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2419,6 +2676,7 @@
 		"Name": "Sentry",
 		"Klasse": "Forschung",
 		"Image": "065",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2427,6 +2685,7 @@
 		"Name": "Serpent",
 		"Klasse": "Kosmos",
 		"Image": "301",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2435,6 +2694,7 @@
 		"Name": "Sersi",
 		"Klasse": "Kosmos",
 		"Image": "216",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2443,6 +2703,7 @@
 		"Name": "Shang-Chi",
 		"Klasse": "Talent",
 		"Image": "205",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2475,6 +2736,7 @@
 		"Name": "Shatterstar",
 		"Klasse": "Mutant",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2483,6 +2745,7 @@
 		"Name": "She-Hulk",
 		"Klasse": "Forschung",
 		"Image": "139",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2490,6 +2753,7 @@
 		"Name": "She-Hulk (Todlos)",
 		"Klasse": "Forschung",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2498,6 +2762,7 @@
 		"Name": "Shocker",
 		"Klasse": "Technologie",
 		"Image": "270",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2506,6 +2771,7 @@
 		"Name": "Shuri",
 		"Klasse": "Technologie",
 		"Image": "247",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2514,6 +2780,7 @@
 		"Name": "Silk",
 		"Klasse": "Forschung",
 		"Image": "277",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2522,6 +2789,7 @@
 		"Name": "Silver Centurion",
 		"Klasse": "Technologie",
 		"Image": "204",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2530,6 +2798,7 @@
 		"Name": "Silver Sable",
 		"Klasse": "Talent",
 		"Image": "298",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2538,6 +2807,7 @@
 		"Name": "Silver Samurai",
 		"Klasse": "Mutant",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2546,6 +2816,7 @@
 		"Name": "Silver Surfer",
 		"Klasse": "Kosmos",
 		"Image": "170",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2554,6 +2825,7 @@
 		"Name": "Skorpion",
 		"Klasse": "Forschung",
 		"Image": "231",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2561,6 +2833,7 @@
 		"Name": "Solvarch",
 		"Klasse": "Technologie",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2570,6 +2843,7 @@
 		"Name_de":"Oberste Zauber",
 		"Klasse": "Mystisch",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2578,6 +2852,7 @@
 		"Name": "Spider-Gwen",
 		"Klasse": "Forschung",
 		"Image": "066",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2586,6 +2861,7 @@
 		"Name": "Spider-Ham",
 		"Klasse": "Forschung",
 		"Image": "195",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2594,6 +2870,7 @@
 		"Name": "Spider-Man (Klassisch)",
 		"Klasse": "Forschung",
 		"Image": "067",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2602,6 +2879,7 @@
 		"Name": "Spider-Man (Miles Morales)",
 		"Klasse": "Forschung",
 		"Image": "068",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2610,6 +2888,7 @@
 		"Name": "Spider-Man (Pavatir Prabhakar)",
 		"Klasse": "Forschung",
 		"Image": "068",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2618,6 +2897,7 @@
 		"Name": "Spider-Man (Stark Aufgerüstet)",
 		"Klasse": "Technologie",
 		"Image": "011",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2626,6 +2906,7 @@
 		"Name": "Spider-Man (Supreme)",
 		"Klasse": "Mystisch",
 		"Image": "249",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2634,6 +2915,7 @@
 		"Name": "Spider-Man (Symbiont)",
 		"Klasse": "Kosmos",
 		"Image": "104",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2642,6 +2924,7 @@
 		"Name": "Spider-Man (Tarnanzug)",
 		"Klasse": "Talent",
 		"Image": "155",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2650,6 +2933,7 @@
 		"Name": "Spider-Man 2099",
 		"Klasse": "Forschung",
 		"Image": "209",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2658,6 +2942,7 @@
 		"Name": "Spider-Punk",
 		"Klasse": "Forschung",
 		"Image": "299",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2666,6 +2951,7 @@
 		"Name": "Spider-Slayer (J. Jonah Jameson)",
 		"Klasse": "Technologie",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2674,6 +2960,7 @@
 		"Name": "Spider-Woman (Jessica Drew)",
 		"Klasse": "Forschung",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2682,6 +2969,7 @@
 		"Name": "Spirale",
 		"Klasse": "Mystisch",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2690,6 +2978,7 @@
 		"Name": "Spot",
 		"Klasse": "Forschung",
 		"Image": "248",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2698,6 +2987,7 @@
 		"Name": "Squirrel Girl",
 		"Klasse": "Talent",
 		"Image": "166",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2706,6 +2996,7 @@
 		"Name": "Star-Lord",
 		"Klasse": "Technologie",
 		"Image": "135",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2714,6 +3005,7 @@
 		"Name": "Storm",
 		"Klasse": "Mutant",
 		"Image": "048",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2722,6 +3014,7 @@
 		"Name": "Storm (Pyramid X)",
 		"Klasse": "Mutant",
 		"Image": "181",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2730,6 +3023,7 @@
 		"Name": "Stryfe",
 		"Klasse": "Mutant",
 		"Image": "201",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2738,6 +3032,7 @@
 		"Name": "Sunspot",
 		"Klasse": "Mutant",
 		"Image": "156",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": [
@@ -2748,6 +3043,7 @@
 		"Name": "Superior Iron Man",
 		"Klasse": "Kosmos",
 		"Image": "105",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2756,6 +3052,7 @@
 		"Name": "Super-Skrull",
 		"Klasse": "Kosmos",
 		"Image": "200",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2764,6 +3061,7 @@
 		"Name": "Symbiod",
 		"Klasse": "Variabl",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2772,6 +3070,7 @@
 		"Name": "Symbiont Supreme",
 		"Klasse": "Mystisch",
 		"Image": "081",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2780,6 +3079,7 @@
 		"Name": "Taskmaster",
 		"Klasse": "Talent",
 		"Image": "029",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2788,6 +3088,7 @@
 		"Name": "Terrax",
 		"Klasse": "Kosmos",
 		"Image": "175",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": [
@@ -2798,6 +3099,7 @@
 		"Name": "Thanos",
 		"Klasse": "Kosmos",
 		"Image": "149",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2805,6 +3107,7 @@
 		"Name": "Thanos (Todlos)",
 		"Klasse": "Kosmos",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2813,6 +3116,7 @@
 		"Name": "The Hood",
 		"Klasse": "Mystisch",
 		"Image": "082",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2821,6 +3125,7 @@
 		"Name": "The Maker",
 		"Klasse": "Technologie",
 		"Image": "068",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2829,6 +3134,7 @@
 		"Name": "Thor",
 		"Klasse": "Kosmos",
 		"Image": "106",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2837,6 +3143,7 @@
 		"Name": "Thor (Jane Foster)",
 		"Klasse": "Mystisch",
 		"Image": "083",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2845,6 +3152,7 @@
 		"Name": "Thor (Ragnarök)",
 		"Klasse": "Talent",
 		"Image": "030",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2853,6 +3161,7 @@
 		"Name": "Tigra",
 		"Klasse": "Mystisch",
 		"Image": "182",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2861,6 +3170,7 @@
 		"Name": "Titania",
 		"Klasse": "Forschung",
 		"Image": "244",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2869,6 +3179,7 @@
 		"Name": "Toad",
 		"Klasse": "Mutant",
 		"Image": "220",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2877,6 +3188,7 @@
 		"Name": "Ultron",
 		"Klasse": "Technologie",
 		"Image": "129",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2885,6 +3197,7 @@
 		"Name": "Ultron (Klassisch)",
 		"Klasse": "Technologie",
 		"Image": "128",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2893,6 +3206,7 @@
 		"Name": "Unaufhaltsamer Colossus",
 		"Klasse": "Mystisch",
 		"Image": "084",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2901,6 +3215,7 @@
 		"Name": "Valkyrie",
 		"Klasse": "Talent",
 		"Image": "237",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2909,6 +3224,7 @@
 		"Name": "Venom",
 		"Klasse": "Kosmos",
 		"Image": "107",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2917,6 +3233,7 @@
 		"Name": "Venom die Ente",
 		"Klasse": "Technologie",
 		"Image": "150",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2925,6 +3242,7 @@
 		"Name": "Venompool",
 		"Klasse": "Kosmos",
 		"Image": "108",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2933,6 +3251,7 @@
 		"Name": "Vision",
 		"Klasse": "Technologie",
 		"Image": "136",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2941,6 +3260,7 @@
 		"Name": "Vision (Aarkus)",
 		"Klasse": "Kosmos",
 		"Image": "160",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2949,6 +3269,7 @@
 		"Name": "Vision (Age of Ultron)",
 		"Klasse": "Technologie",
 		"Image": "010",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2957,6 +3278,7 @@
 		"Name": "Vision (Todlos)",
 		"Klasse": "Technologie",
 		"Image": "310",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2965,6 +3287,7 @@
 		"Name": "Viv Vision",
 		"Klasse": "Technologie",
 		"Image": "267",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2973,6 +3296,7 @@
 		"Name": "Void",
 		"Klasse": "Forschung",
 		"Image": "069",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": [
@@ -2983,6 +3307,7 @@
 		"Name": "Vox",
 		"Klasse": "Kosmos",
 		"Image": "284",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2991,6 +3316,7 @@
 		"Name": "War Machine",
 		"Klasse": "Technologie",
 		"Image": "137",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -2999,6 +3325,7 @@
 		"Name": "Warlock",
 		"Klasse": "Technologie",
 		"Image": "157",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3007,6 +3334,7 @@
 		"Name": "Wasp",
 		"Klasse": "Forschung",
 		"Image": "070",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3015,6 +3343,7 @@
 		"Name": "Wave",
 		"Klasse": "Forschung",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3023,6 +3352,7 @@
 		"Name": "Werwolf bei Nacht",
 		"Klasse": "Mystisch",
 		"Image": "285",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3031,6 +3361,7 @@
 		"Name": "White Tiger",
 		"Klasse": "Forschung",
 		"Image": "300",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3039,6 +3370,7 @@
 		"Name": "Wiccan",
 		"Klasse": "Mystisch",
 		"Image": "233",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3047,6 +3379,7 @@
 		"Name": "Winter Soldier",
 		"Klasse": "Talent",
 		"Image": "031",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3055,6 +3388,7 @@
 		"Name": "Wolverine",
 		"Klasse": "Mutant",
 		"Image": "049",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3063,6 +3397,7 @@
 		"Name": "Wolverine (Weapon X)",
 		"Klasse": "Mutant",
 		"Image": "189",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3071,6 +3406,7 @@
 		"Name": "Wolverine (X-23)",
 		"Klasse": "Mutant",
 		"Image": "050",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3079,6 +3415,7 @@
 		"Name": "Wong",
 		"Klasse": "Mystisch",
 		"Image": "234",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3086,6 +3423,7 @@
 		"Name": "Yelena Belova",
 		"Klasse": "Talent",
 		"Image": "000",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3094,6 +3432,7 @@
 		"Name": "Yellow Jacket",
 		"Klasse": "Forschung",
 		"Image": "009",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
@@ -3102,6 +3441,7 @@
 		"Name": "Yondu",
 		"Klasse": "Technologie",
 		"Image": "138",
+		"PrestigeBasis":"",
 		"Tags": [""],
 		"Skills": [],
 		"Immunities": []
