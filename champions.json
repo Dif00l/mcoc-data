@@ -94,21 +94,8 @@
 		"Klasse": "Forschung",
 		"Image": "052",
 		"PrestigeBasis":"13020",
-		"Tags": [
-			"#Defensiv:Panzer",
-			"#Held",
-			"#Metall",
-			"#Größe:M",
-			"#Avengers",
-			"#AW:Verfall",
-			"#2015"
-		],
-		"Skills": [
-			"Powerstich",
-			"Ermüdung",
-			"Vergiftung",
-			"Versteinern"
-		],
+		"Tags": ["#Defensiv:Panzer","#Held","#Metall","#Größe:M","#Avengers","#AW:Verfall","#2015"],
+		"Skills": ["Powerstich","Ermüdung","Vergiftung","Versteinern"],
 		"Immunities": []
 	},
 	{
@@ -116,19 +103,7 @@
 		"Klasse": "Technologie",
 		"Image": "265",
 		"PrestigeBasis":"12490",
-		"Tags": [
-			"#Defensiv:Panzer",
-			"#Kontrolle:Verweigerung",
-			"#Held",
-			"#Metall",
-			"#Größe:M",
-			"#Dimensionswesen",
-			"#AW:Rüstungsentkräftung",
-			"#Haus der Spiegel",
-			"#RAIDS:Avantgarde",
-			"#2023",
-			"#Saga-Champions"
-		],
+		"Tags": ["#Defensiv:Panzer","#Kontrolle:Verweigerung","#Held","#Metall","#Größe:M","#Dimensionswesen","#AW:Rüstungsentkräftung","#Haus der Spiegel","#RAIDS:Avantgarde","#2023","#Saga-Champions"],
 		"Skills": [
 			"Abprallen",
 			"Kraftexplosion",
@@ -142,19 +117,8 @@
 		"Klasse": "Forschung",
 		"Image": "212",
 		"PrestigeBasis":"13020",
-		"Tags": [
-			"#Offensiv: grober Schaden",
-			"#Größe:L",
-			"#Symbiont",
-			"#AW:Verfall",
-			"#2021"
-		],
-		"Skills": [
-			"Schreckgespenst",
-			"Desorientierung",
-			"Abbremsen",
-			"Wutausbruch"
-		],
+		"Tags": ["#Offensiv: grober Schaden","#Größe:L","#Symbiont","#AW:Verfall","#2021"],
+		"Skills": ["Schreckgespenst","Desorientierung","Abbremsen","Wutausbruch"],
 		"Immunities": []
 	},
 	{
@@ -171,20 +135,8 @@
 		"Klasse": "Mutant",
 		"Image": "193",
 		"PrestigeBasis":"12840",
-		"Tags": [
-			"#Offensiv: Schaden über gewissen Zeitraum",
-			"#Defensiv:Panzer",
-			"#Metall",
-			"#Schurke",
-			"#Größe:XL",
-			"#2020"
-		],
-		"Skills": [
-			"Blutrausch",
-			"Erschöpfung",
-			"Vergiftung",
-			"Gehirnerschütterung"
-		],
+		"Tags": ["#Offensiv: Schaden über gewissen Zeitraum","#Defensiv:Panzer","#Metall","#Schurke","#Größe:XL","#2020"],
+		"Skills": ["Blutrausch","Erschöpfung","Vergiftung","Gehirnerschütterung"],
 		"Immunities": []
 	},
 	{
@@ -192,24 +144,8 @@
 		"Klasse": "Technologie",
 		"Image": "290",
 		"PrestigeBasis":"11630",
-		"Tags": [
-			"#Offensiv:Schaden über einen gewissen Zeitraum",
-			"#Defensiv:Schutz",
-			"Größe:M",
-			"#Schurke",
-			"#Haus der Spiegel",
-			"#2024",
-			"#Saga-Verteidiger"
-		],
-		"Skills": [
-			"Arcade Token",
-			"Automatische Abwehr",
-			"Schock",
-			"Giftige Wolke",
-			"Sprengfalle",
-			"Einäschern",
-			"Blutrausch"
-		],
+		"Tags": ["#Offensiv:Schaden über einen gewissen Zeitraum","#Defensiv:Schutz","Größe:M","#Schurke","#Haus der Spiegel","#2024","#Saga-Verteidiger"],
+		"Skills": ["Arcade Token","Automatische Abwehr","Schock","Giftige Wolke","Sprengfalle","Einäschern","Blutrausch"],
 		"Immunities": []
 	},
 	{
@@ -217,22 +153,8 @@
 		"Klasse": "Mutant",
 		"Image": "032",
 		"PrestigeBasis":"12560",
-		"Tags": [
-			"#Offensiv:Schaden über gewissen Zeitraum",
-			"#Held",
-			"#Metall",
-			"#Größe:M",
-			"#EQ:Romantik",
-			"#X-Men",
-			"#X-Force",
-			"#2017"
-		],
-		"Skills": [
-			"Neurotoxin",
-			"Blutrausch",
-			"Vergiftung",
-			"Lähmung"
-		],
+		"Tags": ["#Offensiv:Schaden über gewissen Zeitraum","#Held","#Metall","#Größe:M","#EQ:Romantik","#X-Men","#X-Force","#2017"],
+		"Skills": ["Neurotoxin","Blutrausch","Vergiftung","Lähmung"],
 		"Immunities": []
 	},{
 		"Name": "Armin Zola",
@@ -248,21 +170,8 @@
 		"Klasse": "Talent",
 		"Image": "246",
 		"PrestigeBasis":"13100",
-		"Tags": [
-			"#Offensiv:grober Schaden",
-			"#Schurke",
-			"#Größe:L",
-			"#Culs Würdigkeit",
-			"#Klarheit",
-			"#2022",
-			"#Saga-Champions"
-		],
-		"Skills": [
-			"Umkehrung der Genauigkeiten der Fähigkeiten",
-			"Dornen",
-			"Säuberung",
-			"Echte Genauigkeit"
-		],
+		"Tags": ["#Offensiv:grober Schaden","#Schurke","#Größe:L","#Culs Würdigkeit","#Klarheit","#2022","#Saga-Champions"],
+		"Skills": ["Umkehrung der Genauigkeiten der Fähigkeiten","Dornen","Säuberung","Echte Genauigkeit"],
 		"Immunities": []
 	},
 	{
@@ -270,16 +179,8 @@
 		"Klasse": "Spezial",
 		"Image": "000",
 		"PrestigeBasis":"0",
-		"Tags": [
-			"#Defensiv:Nutzen",
-			"#Größe:L",
-			"#Symbiont"
-		],
-		"Skills": [
-			"Blutrausch",
-			"Erschöpfung",
-			"Rüstungsbruch"
-		],
+		"Tags": ["#Defensiv:Nutzen","#Größe:L","#Symbiont"],
+		"Skills": ["Blutrausch","Erschöpfung","Rüstungsbruch"],
 		"Immunities": []
 	},
 	{
